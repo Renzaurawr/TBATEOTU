@@ -1,0 +1,7 @@
+_site
+.sass-cache
+.jekyll-cache
+.jekyll-metadata
+files/pdf
+blog.sublime-workspace
+.DS_Store

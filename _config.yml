@@ -1,0 +1,11 @@
+# Site settings
+title: The Blog at the End of the Universe
+fmtTitle: TBATEOTU
+email: jldeguzman@gmail.com
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: renzaurawr.github.io # the base hostname & protocol for your site
+github_username:  renzaurawr
+highlighter: none
+
+# Build settings
+markdown: kramdown
