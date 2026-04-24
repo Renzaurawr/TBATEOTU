@@ -1,0 +1,102 @@
+{%		assign dennis = "https://privacy.net/analyzer/"		%}
+{%		assign piholeImg = "/img/pi.png"		%}
+{%	assign strange = "https://www.gwern.net/Noteslittlewoods-law-and-the-global-media"	%}
+{%		assign attackImg = "/img/attack.jpg"	%}
+{%    assign xkey = "https://en.wikipedia.org/wiki/XKeyscore"       %}
+{%    assign ech = "https://en.wikipedia.org/wiki/ECHELON"         %}
+{%    assign fb = "https://www.theguardian.com/commentisfree/2018/mar/28/all-the-data-facebook-google-has-on-you-privacy"  %}
+{%    assign enemy = "https://www.cnet.com/news/meet-the-corporate-enemies-of-the-internet-for-2013/"          %}
+{%    assign play = "https://arstechnica.com/information-technology/2018/04/malicious-apps-in-google-play-gave-attackers-considerable-control-of-phones/"          %}
+{%    assign spy = "https://en.wikipedia.org/wiki/Spyware"          %}
+{%    assign mal = "https://en.wikipedia.org/wiki/Malware#Purposes"          %}
+{%    assign mix = "https://www.wired.com/story/eternalblue-leaked-nsa-spy-tool-hacked-world/"		%}
+{%    assign krebs = "https://krebsonsecurity.com/2018/12/what-the-marriott-breach-says-about-security/"	%}
+{%    assign chrome = "https://lifehacker.com/5763452/what-data-does-chrome-send-to-google-about-me"	%}
+{%    assign safari = "https://www.pcworld.com/article/250213/googles_safari_tracking_dilemma_reality_check.html"	%}
+{%    assign protonChrome = "https://old.reddit.com/r/ProtonMail/comments/9yl94k/never_connect_to_protonmail_using_chrome/"	%}
+{%    assign chromeCookies = "https://news.softpedia.com/news/chrome-69-does-not-delete-google-cookies-when-clearing-all-website-data-522884.shtml"		%}
+{%    assign pwned = "https://haveibeenpwned.com/PwnedWebsites" 		%}
+{%    assign kee = "https://keepassxc.org/"	%}
+{%    assign offs = "https://en.wikipedia.org/wiki/Off-site_data_protection"		%}
+{%    assign ff = "https://gist.github.com/0XDE57/fbd302cef7693e62c769"			%}
+
+{%    assign sucks = "https://gist.github.com/joepie91/5a9909939e6ce7d09e29"	%}
+{%    assign keyfile = "https://keepass.info/help/base/keys.html"			%}
+{%    assign sweden = "https://futurism.com/sweden-microchip-trend/"		%}
+{%    assign nsa = "https://www.theguardian.com/us-news/2015/feb/23/nsa-director-defends-backdoors-into-technology-companies"	%}
+{%    assign rtc = "https://en.wikipedia.org/wiki/WebRTC#Concerns"		%}
+
+{%    	assign googblocked = "https://www.theregister.co.uk/2019/01/22/google_chrome_browser_ad_content_block_change/"	%}
+{%    	assign homoglyphs = "https://www.cisco.com/c/en/us/support/docs/security/email-security-appliance/200146-Homoglyph-Advanced-Phishing-Attacks.html"	%}
+{%    	assign yubi = "https://en.wikipedia.org/wiki/YubiKey"	%}
+{%    	assign keybase = "https://keybase.io/"	%}
+{%    	assign pia = "https://www.privateinternetaccess.com/"		%}
+{%    	assign eff = "https://panopticlick.eff.org/"		%}
+{%    	assign ddg = "https://duckduckgo.com/"		%}
+{%    	assign noscript = "https://noscript.net/"		%}
+{%    	assign badger = "https://www.eff.org/privacybadger"		%}
+{%    	assign nausea = "https://adnauseam.io/"		%}
+{%    	assign proton = "https://protonmail.com"		%}
+{%    	assign who = "https://www.whois.net/"		%}
+{%    	assign rua = "https://addons.mozilla.org/en-US/firefox/addon/random_user_agent/"		%}
+{%    	assign https = "https://addons.mozilla.org/en-US/firefox/addon/smart-https-revived/"		%}
+{%    	assign cookie = "https://addons.mozilla.org/en-US/firefox/addon/cookie-autodelete/"		%}
+{%    	assign decentral = "https://addons.mozilla.org/en-US/firefox/addon/decentraleyes/"		%}
+{%		assign linux = "https://www.av-test.org/fileadmin/pdf/security_report/AV-TEST_Security_Report_2015-2016.pdf"		%}
+{%		assign tor = "https://www.torproject.org/" %}
+{%		assign openNo = "https://stackoverflow.com/questions/17664157/where-to-find-source-code-of-mozilla-noscript-extension"		%}
+{%		assign ublock = "https://github.com/gorhill/uBlock"		%}
+{%		assign autodel = "https://github.com/Cookie-AutoDelete/Cookie-AutoDelete"		%}
+{%		assign ruaCode = "https://github.com/tarampampam/random-user-agent" %}
+
+{%    assign linder = "http://www.spiegel.de/international/business/the-secret-ways-of-little-known-chinese-telecoms-giant-huawei-a-875297.html"		%}
+{%    assign huawei = "https://www.quora.com/Is-there-any-real-proof-Huawei-has-backdoors-for-China-spying"		%}
+
+{%    assign bank = "https://twofactorauth.org/#banking"		%}
+{%    assign incog = "https://blog.mozilla.org/blog/2017/11/20/firefox-private-browsing-vs-chrome-incognito/"	%}
+
+{%		assign paranoia = "https://www.wired.com/2015/06/dark-web-drug-lords-got-away/"     %}
+{%		assign faraday = "https://www.amazon.co.uk/Contactless-Card-Shield-Faraday-Wallet/dp/B073Q6YLYL"	%}
+{%		assign compare = "https://thatoneprivacysite.net/vpn-comparison-chart/"		%}
+
+{%		assign pi = "https://www.raspberrypi.org/products/#buy-now-modal"		%}
+{%		assign troyPi = "https://www.troyhunt.com/mmm-pi-hole/"		%}
+{%		assign hole = "https://github.com/pi-hole/pi-hole#alternative-semi-automated-install-methods"	%}
+{%		assign abp = "https://adblockplus.org/"	%}
+
+{%		assign cvb = "https://addons.mozilla.org/en-US/firefox/addon/canvasblocker/"		%}
+{%		assign hulce = "https://github.com/patrickhulce/third-party-web"				%}
+{%		assign canvas = "https://en.wikipedia.org/wiki/Canvas_fingerprinting"			%}
+{%		assign hell = "https://news.ycombinator.com/item?id=19259069"			%}
+{%		assign typ = "https://en.wikipedia.org/wiki/Keystroke_dynamics"			%}
+{%		assign tcpip = "https://en.wikipedia.org/wiki/Internet_protocol_suite"		%}
+{%		assign troy = "https://haveibeenpwned.com/NotifyMe"			%}
+{%		assign auth = "https://gitlab.gnome.org/World/Authenticator"		%}
+{%		assign pwordman = "https://www.securityevaluators.com/casestudies/password-manager-hacking/"		%}
+{%		assign httpse = "https://www.reddit.com/r/privacytoolsIO/comments/5qnq6j/time_to_stop_recommending_https_everywhere/"		%}
+{%		assign ban = "https://en.wikipedia.org/wiki/List_of_websites_blocked_in_the_United_Kingdom#Court_ordered_implementations_targeting_copyright_and_trademark_infringement"		%}
+{%		assign ispuk = "https://www.ispreview.co.uk/index.php/2018/04/high-court-rules-uk-isp-internet-snooping-law-is-unlawful.html"		%}
+{%		assign ispus = "https://torrentfreak.com/how-long-does-your-isp-store-ip-address-logs-120629/"	%}
+{%		assign five = "https://en.wikipedia.org/wiki/Five_Eyes"	%}
+
+{% 		assign pypi = "https://lwn.net/Articles/733853/"		%}
+{% 		assign piholeCost = "https://raspberrypi.stackexchange.com/questions/5033/how-much-energy-does-the-raspberry-pi-consume-in-a-day"	%}
+{% 		assign fb2 = "https://addons.mozilla.org/en-GB/firefox/addon/facebook-container/"		%}
+{% 		assign feed = "https://www.reddit.com/r/simpleliving/comments/5ytjar/how_to_disable_facebook_news_feed/"		%}
+{% 		assign dl = "https://www.facebook.com/help/1701730696756992?helpref=hc_global_nav"		%}
+
+{% 		assign clean = "https://addons.mozilla.org/addon/clearurls/"		%}
+{% 		assign exfil = "https://addons.mozilla.org/addon/css-exfil-protection/"		%}
+{% 		assign israe = "https://www.reuters.com/article/us-apple-encryption-cellebrite-idUSKCN0WP17J"		%}
+{% 		assign librem = "https://puri.sm/products/librem-5/"		%}
+{% 		assign reset = "https://protonmail.com/support/knowledge-base/reset-password/"		%}
+{% 		assign outlook = "https://arstechnica.com/gadgets/2019/04/hackers-could-read-non-corporate-outlook-comhotmail-for-six-months/"	%}
+{% 		assign mic = "https://www.quora.com/Should-I-tape-over-my-laptop-camera"	%}
+{% 		assign captivated = "https://theintercept.com/2014/03/12/nsa-plans-infect-millions-computers-malware/"	%}
+{% 		assign dummy = "https://security.stackexchange.com/a/130402"		%}
+{% 		assign beginux = "https://www.pcworld.com/article/2918397/how-to-get-started-with-linux-a-beginners-guide.html"		%}
+{% 		assign restore = "https://restoreprivacy.com/best-vpn/"		%}
+{%	assign vtrack = "https://www.patreon.com/posts/your-phone-is-37672175" %}
+{%	assign vsurv = "https://www.patreon.com/posts/defy-digital-37672170"	%}
+{%	assign vdevices = "https://www.patreon.com/posts/gear-up-digital-37672080"	%}
+{%	assign fsec = "https://www.f-secure.com/v-descs/articles/securing-web-browsers.shtml"	%}

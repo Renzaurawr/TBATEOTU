@@ -1,0 +1,28 @@
+@import "layout.css";
+@import "typography.css";
+@import "syntax-highlighting.css";
+
+:root{
+
+	--font-family: Helvetica, Arial, sans-serif;
+	--font-size: 15px;
+	--small-font-size: calc(var(--font-size) * 0.875);
+	--line-height: 1.5em;
+
+	--spacing-unit: 30px;
+
+	--text-color: #2d2d2d;
+	--white: #FFF;
+	--bg-color: #fdfdfd;
+	--theme-color: #2b661a;
+
+	--grey-color: #828282;
+	--grey-color-light: #BBBBBB;
+
+	--pak-green: #006800;
+    --dark-green: #343;
+	--yellow: #FAC342;
+    --padding: 1.2em;
+    --content-width: 46rem;
+    --mobile: 600px
+}

@@ -1,0 +1,48 @@
+{%	assign id = "covid2img" 	%}
+{%	assign wavecode = "https://github.com/MrinankSharma/COVID19NPISecondWave"	%}
+
+<tr>
+	<td class="logo">
+		<a href="{{secondwave}}">
+			<div id="{{id}}"></div>
+		</a>
+	</td>
+	<td style="padding-left: 5px">
+		<h4>
+			<a class="nolink" style="font-size: 17px" href="{{secondwave}}" target="_blank">
+				What worked on Covid in the 2nd wave
+				<span class="year">(2021)</span>
+			</a>
+		</h4>
+	 	<div class="journo">
+			<i>Nature Comms</i>
+		</div>
+		
+		<span class="dropdown">
+		  <button class="dropped" onclick="javascript:drop('covid2')">The point</button>,
+		  <div id="covid2" class="dropdown-content">
+			<br>
+			<b>Full title: Understanding the effectiveness of government interventions against the resurgence of COVID-19 in Europe </b>
+			<br><br>
+			We looked at how policy effects changed in the second wave (late 2020). This time we did it at a finer level, with the unit roughly 1/20 of a country rather than whole countries.<br><br>
+			
+			Policies got a bit weaker overall (66% combined reduction, compared to 80% in Spring). The best reading of this is that all the safety measures and individual protective behaviour persisted after the first wave, even when the government said it was ok to stop.<br><br>
+
+			School closure was notably weaker (10% instead of 35%). This probably means that the safety measures enforced since Spring really did make them safer.<br><br>
+
+			<i>Authors</i>: Mrinank Sharma, Sören Mindermann, Charlie Rogers-Smith, <span class="me">Gavin Leech</span>, Benedict Snodin, Janvi Ahuja, Jonas B. Sandbrink, Joshua Teperowski Monrad, George Altman, Gurpreet Dhaliwal, Lukas Finnveden, Alexander John Norman, Sebastian B. Oehm, Julia Fabienne Sandkühler, Thomas Mellan, Jan Kulveit, Leonid Chindelevitch, Seth Flaxman, Yarin Gal, Swapnil Mishra, Jan Markus Brauner, Samir Bhatt
+			<br>
+				<i>Total hours I contributed</i>: 100.
+			<br>
+				<script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script><div class="altmetric-embed" data-badge-type="donut" data-altmetric-id="102831786"></div>
+			<br>
+		  </div>
+		</span>
+		<a href="{{secondwave}}" target="_blank">the paper</a>, <a href="{{secondwavetwit}}">explainer</a>, <a href="{{wavecode}}">code</a>
+	</td>
+</tr>
+
+<script>  
+	var src="/img/papers/second.jpg"; 
+    definiteEvent( createImg, [src, "{{id}}"] ); 
+</script>

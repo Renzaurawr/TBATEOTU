@@ -1,0 +1,295 @@
+---
+layout:     post
+title:      "love, analytically"
+baselink:   /love
+permalink:  /love
+date:       2010-05-06
+author:     Gavin   
+img:        
+
+visible:    1
+published:  true
+
+summary:    Trying to make sense of the organising principle
+confidence: 
+quality:    5
+importance: 6
+emotion:    8
+wordcount:  2000
+argument:   
+categories: becoming, love
+where:      "Aberdeen"
+---
+
+<!-- https://afterallitcouldbeworse.blogspot.com/2013/11/mathematical-desire.html -->
+
+<div align="center">
+
+<img id="BLOGGER_PHOTO_ID_5468199242010030626" src="/img/%210.jpg" border="0" />
+
+
+<!-- For some, a rational analysis of love is an enraging idea; you obviously get that way without much prompting by the world - but this approach to the matter is largely in an appendix at the end, so you may simply avoid it.  -->
+
+<br><br>
+
+<blockquote>
+    reason and love keep little company together now-a-days; the more the pity that some honest neighbours will not make them friends.
+</blockquote>
+-- A Midsummer Night's Dream
+
+<br><br>
+
+<blockquote>Shut it, 'Love Actually'!</blockquote>
+    -- <a href="http://www.youtube.com/watch?v=wa3eoMnMC80">Jamie McDonald</a> 
+
+
+
+</div>
+
+<br><br>
+
+_2022 Note: I wrote this in recovering from the most painful moment of my life._
+
+<br>
+
+We are obsessed with love as much as our lovers. But there's a difference between bare usage and actual thought about it. 
+
+<!-- mawk is unguarded sentimentality, and I've been trying for readable unguardedness for some time now. -->
+
+
+If anything at all does not qualify for cold, crackly analytic attention, then the unspeakable analysandum, love, is it. Because 1) it's holistic if it is anything; because 2) it seems small from outside; because 3) it is, fundamentally, <em>uncomfortable to read about.</em> But nothing doesn't qualify.
+
+As a culture we haven't moved on from (or even reached the level of) the <a href="http://en.wikipedia.org/wiki/Greek_words_for_love">four Greek words</a>, and we seem to be torturing ourselves over a vague mire borne of half-successful feminism and runaway adolescent bullshit. Speaking of which:
+
+<br>
+
+## 1. Eros; soul mates; symbiotic clutch
+
+<ul><li>"You are my life now."</li></ul>
+<ul><li>"It makes me… anxious… to be away from you."</li></ul>
+<ul><li>"I’m here, and I love you. I have always loved you, and I will always love you. I was thinking of you, seeing your face in my mind, every second that I was away. When I told you that I didn’t want you, it was the very blackest kind of blasphemy."</li></ul>
+<ul><li><div align="left">"I just want it to be official — that you belong to me and no one else." (on marriage)</div></li></ul>
+<ul><li><div align="left">"Bring on the shackles — I’m your prisoner." </div></li></ul>
+
+<div style="text-align: center;">
+-- <i>Twilight</i></div>
+
+<br><br>
+
+Amour fou is what passes for love in most art. "true love". Passion and possession. 
+
+Augustine describes it as "eating one another up, as people do with their food." Consuming, being consumed; love to ignite you and burn you out. the desire to make another into ourselves. Nietzsche calls it natural love. This isn't a compliment.
+
+One of the few people I've ever managed to speak about this with had a terrifying ideal: love as mind-meld, as unified entity. filed under "emo" and thus disarmed and made ridiculous rather than scary. 
+
+<img id="BLOGGER_PHOTO_ID_5468199965443502834" src="http://2.bp.blogspot.com/_1jKHfOdSZhQ/S-Ly5ZUQMvI/AAAAAAAAAF4/rcjA_GheXAI/s400/1zx6ttt.gif" border="0" />
+
+
+## 2. Aphorisms (what most people seem to think philosophy is)
+
+> "To love is to be delighted by the happiness of another."
+- Leibniz
+
+> "he was the only person who could really interest her in herself."
+- Sartre 
+
+> love, the occupation of the idle
+- Diogenes
+
+> "It is an act of endless forgiveness, a tender look which becomes a habit."
+- Peter Ustinov
+
+> "the only sane and satisfactory answer to the problem of human existence."
+- Erich Fromm 
+
+> "Love feels like a great misfortune, a monstrous parasite, a permanent state of emergency that ruins all small pleasures."  
+- Slavoj Žižek
+
+> "Entering it, one is suddenly aesthetically magnified; the stars are presenting for you alone, birdsong is omnipresent and omnibenevolent. An astounding amount of negative experience becomes perfectly tolerable, and the merest things about the object become cosmically significant."
+
+> "There is a limit to what one may do if one is the object or cause of jealousy; for the jealous lover, everything one does is transmuted into misdirected love. It is a vicious and total transformation of the world, the inverse of the other love's action. And you cannot understand what you hate" 
+
+<br>
+
+## 3. critique
+
+After the modern, hollowness. Sex is about power. Porn is not about women, nor really even sex; porn is about use and ease of escape. Love, they said finally, is a patriarchal construction. 
+
+How can one reply? (Incredulity just makes you a victim of the ideology.)
+
+From Nietzsche on through the postmodernists he accidentally gave breath to, we find critique of the great dumb thing. 
+
+Firstly, love is not a <a href="http://www.nbb.cornell.edu/neurobio/land/OldStudentProjects/cs490-95to96/hjkim/emotions.html">universal emotion</a>; many cultures apparently lack it. Even leaving aside the large and intimidating <a href="http://en.wikipedia.org/wiki/Shulamith_Firestone">Marxist</a> (and on through "French feminism") readings, love can be called a twinned egoism, stupid contentment, a smug sharing in the fact of one another rather than a proper communal cause.
+
+
+"Love, which was once believed to contain the Answer, we now know to be nothing more than an inherited behavior pattern.”
+-- James Thurber
+
+Concretely we could talk about how much of love has the built-in premise: "P: life revolves around my love." I can see why you'd want to resist this, as slavish <a href="http://www.time.com/time/magazine/article/0,9171,95210,00.html">surrender</a>, but it's also just true for most people. Maybe amend it to "loves", i.e. favourite things, obsessions, and then I'd have to endorse it despite its problems.
+
+Nietzsche went on about how love is actually an expression of the “deadly hatred of the sexes”; men and women fundamentally hate each other, and their relationships are the “war in its means”. This horrible idea is given development in Germaine Greer et al, when they talk about the artificiality of relationships and the extraordinary social structures that had to develop in order to get the genders to coexist.
+
+Others agree that it's all an evolutionary and socially oppressive structure - an act of sublimated violence, and a base urge for control, possession and a steady supply of fucking.<a href="http://www.fallacyfiles.org/genefall.html"> (Genetic fallacy...)</a></div><div align="left"></div><div align="left"></div><div align="left"></div><div align="left">
+With all due respect to the social sciences and the Marxist feminists, and despite the uncontested correctness of some of the above, excuse me while I hold on to my intuitions for once, and get my coat. </div>
+
+## 4. an explanation which sounds like critique
+
+> you fall in love because it tricks you into performing all kinds of visible displays of being fixated/being taken, which signal to third-parties that they should stop pursuing you.
+
+[A signaling-to-alternatives account of the commitment
+device hypothesis](https://labs.la.utexas.edu/buss/files/2025/03/Gelbart-et-al.-2025-The-Function-of-Love.pdf?utm_source=substack&utm_medium=email)
+
+<br>
+
+## 5. "Volo ut sis" (I want you to be)
+
+"volo ut sis", misattributed to St Augustine <a href="http://thescottishenlightenment.com/">:</a> supposed to be his name for ideal love. caritas, agape; God's love.
+
+Hannah Arendt used it for the basis of a politics; Volo ut sis is a relation with someone that doesn't restrict the other. Superlative respect, trust and encouraging warmth, with each ego trying not to impose itself on the other... 
+
+You do this by "sharing another's object" - that is, take on their reading of the world, and avoid dictating yours. It could be decried as pragmatic love, as head-love - merely <a href="http://www.iep.utm.edu/love/#SH2b">philia</a>? - since it sounds somewhat voluntary and cognitive. But I don't see such an objection coming from many folk who've actually ever had a lasting relationship.
+
+
+“Love does not cause suffering: what causes it is the sense of ownership, which is love's opposite”
+-- Antoine de Saint-Exupéry
+
+
+
+is anyone actually capable of such a thing?
+
+<br>
+
+<hr />
+
+<br>
+
+
+## THE LOGICAL TREATMENT OF THE PATIENT
+
+
+“Philosophy stands in the same relation to the study of the actual world as masturbation to sexual love.”
+
+-- Marx, in "The German Ideology" 
+
+
+<!-- If this were a German philosophy textbook of the 1800s, I'd begin by matching the topic's <em>Begriff und Einteilung</em> to its <em>Aufgabe und Methode</em>,  -->
+
+
+<!-- do we really believe that clean, cold thought can tell us anything about the dirty, white-hot complex? Would you run the dialectic, work up your justification, read the latest formal proofs?  -->
+
+we do this to <em>reality as a whole</em>, to Time, to modal multiverses: what disqualifies a mere emotion from it? To make philosophy a thing apart, as Marx does in the above quote, is simplistic; there's surely nothing wrong with the age-old moot: "What in the fuck is this thing?"</div><div align="left">
+
+The opposing of reason and emotion in the Western tradition is extremely overwrought, but even so ...to deduce a logical warrant of desire... </div><div align="left"></div>
+<ul><li><div align="left">Does love exist? </div></li></ul><ul><li><div align="left">What is its nature? </div></li></ul><ul><li><div align="left">How does one know it? </div></li></ul><ul><li><div align="left">How does one know how one knows it? etc. </div></li></ul><ul><li><div align="left">Which distinct categories are identifiable? </div></li></ul><ul><li><div align="left">What are the truth-conditions for its obtaining? </div></li></ul><ul><li><div align="left">etc. </div></li></ul><div align="left"></div><div align="center">Well? Is this clear-eyed and evenhanded or just falsely reductive? </div><div align="center">
+
+
+Gabriele Taylor did a properly analytic treatment of it in the 70s which is impressive and absurd in equal measures. 
+
+
+Contention: </em>Can love ever be justified?</p><p><em>Discourse: </em>Love treated as an attitudinal belief (like fear). "Lovable" posited as an attributed property of the objects of love. Misattribution and epistemic factors raised.</p><p></p><p></p><p>
+</p><p>"There is a class of emotions the members of which share the following
+characteristics:</p><p>1) If a person <em>x </em>feels one of these emotions then it will always be possible for him to specify what it is 'about'.</p><p>2) If <em>x</em> feels the emotion <em>E</em>, and <em>y</em> is the object, then <em>x </em>believes <em>y </em>to have a specific set of properties.</p><p align="center"><span style="color: rgb(204, 153, 51);"><strong>∃</strong>Φ(<em>xy</em>)(<em>E</em>xy ⇒ B<em>x</em>Φ<em>y</em>)</span></p><p align="center"><span style="color: rgb(204, 153, 51);"></span></p><p align="left">
+Φ cannot, of course, tell us much about the object<em> y </em>or how<em> y </em>appears to <em>x. </em>It is instead a <em>determinable quality, </em>which all objects which elicit <em>E</em> can be said to possess.</p><p align="left">3) <em>x </em>will therefore also believe that <em>y</em> has certain <em>determinate qualities</em> ψ and that it is due to these that <em>y</em> has the determinable Φ.</p><p align="center"><span style="color: rgb(204, 153, 51);">(xy)(<strong>∃</strong>ψ)(<em>Exy</em> ⇒ B<em>xψy</em>)</span></p><p align="center"><span style="color: rgb(204, 153, 51);"></span></p><p align="left">
+4) Features 1-3 are necessary (but insufficient) conditions for feeling an emotion of this class."</p><p align="left">Given these features we have a basis on which to decide whether experiencing some emotion on this or that occasion is justified or no. There is a lack of symmetry in such reasoning with emotion: while it is sufficient for an emotional reaction to be unjustified if the beliefs involved are irrational, the rationality of such beliefs is not enough for their justification...</p><p align="left">The question I want to discuss here is whether love belongs to the class of emotions characterized by the conditions set out above and can be considered <em>justifiable...</em>"</p><p align="left"></p><p align="left"></p><p align="center">
+
+God, it's compelling. Like a car crash.
+
+</p><p style="text-align: left;"></p><p style="text-align: left;">I've ranted before that "Why do you love them?" is an empty question, simply answerless, since to do a <em>When Harry Met Sally</em> rundown is to formalise, and formalisations are never semantically cheap. No amount of language can ever really represent such complex phenomena. Further:</p><div align="left">
+</div><p style="text-align: center;"><span style="color: rgb(204, 153, 51);"><blockquote></blockquote>"Love is not a feeling. Love is put to the test, pain not. One never says: ‘That was not true pain, or it would not have gone off so quickly’." </span></p><p style="text-align: center;">- Wittgenstein <span style="color: rgb(204, 153, 51);">
+</span></p><div align="left"></div><div style="text-align: center;">Seems plausible to me ('not a sensation', that is, not 'not an emotion').</div><div align="left"></div><div align="left"></div><div align="left"></div><div align="left"></div><div align="left">
+
+When playing this analysis game I go further than Taylor; try these on: <em>
+
+</em>1) Common received idea goes: "<a href="http://www.youtube.com/watch?v=aXAU4MmMIMo">How can you love if you don't love yourself</a>?"<em>,</em> which is the claim that
+<em>love is a reflexive relation:
+</em>
+<div style="text-align: center;">L<em>xy</em> ⇔ L<em>xx</em><em></em>
+<em></em></div><div style="text-align: center;">
+(Which, though a nice idea, doesn't hold.)
+<em></em></div><em>
+
+2) Better is the the logical claim that reciprocity is required, that
+love is a symmetrical twoplace relation</em>:</div><div align="center">
+L<em>xy</em> ⇔ L<em>yx</em> </div>
+<div align="center">(That is, I'd deny that unrequited love deserves the full sense of the term.)</div><div align="center"></div><div align="center"></div><div align="center"></div>
+
+
+<p align="center"><object height="385" width="480"><param name="movie" value="http://www.youtube.com/v/FTUClwAI9ck&amp;hl=en_GB&amp;fs=1&amp;color1=0x006699&amp;color2=0x54abd6"><param name="allowFullScreen" value="true"><param name="allowscriptaccess" value="always"><embed src="http://www.youtube.com/v/FTUClwAI9ck&amp;hl=en_GB&amp;fs=1&amp;color1=0x006699&amp;color2=0x54abd6" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" height="385" width="480"></embed></object></p>
+
+
+
+
+
+<!-- 
+<a href="http://1.bp.blogspot.com/_1jKHfOdSZhQ/TIt5j_rYWSI/AAAAAAAAAbQ/efNQoGOa9yA/s1600/split-006.jpg"><img alt="" border="0" src="https://1.bp.blogspot.com/_1jKHfOdSZhQ/TIt5j_rYWSI/AAAAAAAAAbQ/efNQoGOa9yA/s320/split-006.jpg" id="BLOGGER_PHOTO_ID_5515635827941071138" style="display: block; height: 219px; margin: 0px auto 10px; text-align: center; width: 171px;"></a><span style="color: #ffcc00;"> </span><br />
+<div style="text-align: center;">
+"<span style="color: #783f04;">Speak the truth - but leave immediately afterwards</span>."<br />
+- Slovene proverb</div>
+<br />
+
+<br><br>
+<a href="https://play.spotify.com/user/technicalities1/playlist/6RzFA3IYHGsl8Le9K29CNn">On Spotify Here</a>
+<br><br>
+ -->
+<!-- <div style="text-align: center;">An inverted reply to a musical <a href="http://kid-reflux.blogspot.com/2010/05/here-lies-love.html">reply</a> to the <a href="http://afterallitcouldbeworse.blogspot.com/2010/05/love-analytically.html">thing I wrote</a> on love.</div><br /><br />
+<div style="text-align: left;">
+Most songs are about love, sex, or loving sex. Better: most are about the glory of it, wanting it, or heartbreak<em>. </em>There's little space for resenting its incursion into your business, or how it fucks up your social circle; being glad of the back of someone; pining because you're trapped in a shit relationship; or simply suddenly losing interest, all commonplace in life and missing in culture. (I suppose this is where grime comes in.)</div>
+<div style="text-align: left;">
+&nbsp;</div>
+<div style="text-align: left;">
+The dumped is always focalised; we don't have a decent cultural vocabulary in which to treat leavers or rejectors. They're enigmatic dicks, or nothing.&nbsp;But it sucks to leave too&nbsp;- to&nbsp;happen to fall out of love first and have to do something about it - and it's just inadequate to have one mechanical trope for justifying&nbsp;the action&nbsp;(being abused or cheated on). You can be heartbroken to leave. </div>
+<div style="text-align: left;">
+&nbsp;</div>
+<div style="text-align: left;">
+It's actually&nbsp;strange that there aren't many sympathetic treatments of leavers, since logically around half of us are. Right? Anyway: songs why love stops.</div>
+<div align="left">
+<br />
+<br />
+1. <em>No reason.</em><br />
+Just stopped. Terrifying - "<em>Nihil est sine ratione? Falsa; amor est."</em></div>
+<br />
+<div align="left">
+<em>(Freebird</em> comes closest to this, but I'm damned if it's getting linked.)<br />
+<iframe frameborder="0" height="390" src="https://www.youtube.com/embed/9FwVpoTILfY" title="YouTube video player" width="480"></iframe><br /></div>
+<br /><br />
+<br />2. <em>Psychobabble blame.</em><em>&nbsp;</em><br />Subconscious resentment; transference; projection; low first-state psychosocial development, etc.<br /><object height="345" width="560"><param name="movie" value="https://www.youtube.com/v/kenF3_77774?version=3&amp;hl=en_GB"></param>
+<param name="allowFullScreen" value="true"></param>
+<param name="allowscriptaccess" value="always"></param>
+<embed src="https://www.youtube.com/v/kenF3_77774?version=3&amp;hl=en_GB" type="application/x-shockwave-flash" width="560" height="345" allowscriptaccess="always" allowfullscreen="true"></embed></object><br /><br /><br />
+<div align="left">
+3.<em> Sudden cowardice.</em> <br /><object height="385" width="360"><param name="movie" value="https://www.youtube.com/v/YltG63h3i2E?fs=1&amp;hl=en_GB"><param name="allowFullScreen" value="true"><param name="allowscriptaccess" value="always"><embed src="https://www.youtube.com/v/YltG63h3i2E?fs=1&amp;hl=en_GB" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" height="385" width="480"></embed></object><br /><br /><br />4. <em>Sudden bravery.</em><br />The need of self-determination, or riding without stabilizers.<br /><object height="345" width="420"><param name="movie" value="https://www.youtube.com/v/kvPLMjWtZbA?version=3&amp;hl=en_GB"></param>
+<param name="allowFullScreen" value="true"></param>
+<param name="allowscriptaccess" value="always"></param>
+<embed src="https://www.youtube.com/v/kvPLMjWtZbA?version=3&amp;hl=en_GB" type="application/x-shockwave-flash" width="420" height="345" allowscriptaccess="always" allowfullscreen="true"></embed></object><br /></div>
+<div align="left"><br />
+5. <em>Because there are no more chemicals left in you </em>(see 1?)</div>
+<object height="385" width="360"><param name="movie" value="https://www.youtube.com/v/FBSnQOLR0II?fs=1&amp;hl=en_GB"><param name="allowFullScreen" value="true"><param name="allowscriptaccess" value="always"><embed src="https://www.youtube.com/v/FBSnQOLR0II?fs=1&amp;hl=en_GB" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="480" height="385"></embed></object><br />
+<br />
+<object height="385" width="360"><param name="movie" value="https://www.youtube.com/v/VRAEeQ304Po?fs=1&amp;hl=en_GB"><param name="allowFullScreen" value="true"><param name="allowscriptaccess" value="always"><embed src="https://www.youtube.com/v/VRAEeQ304Po?fs=1&amp;hl=en_GB" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="640" height="385"></embed></object><br />
+<br />
+<object height="385" width="360"><param name="movie" value="https://www.youtube.com/v/x9yHxLA2Z5I?fs=1&amp;hl=en_GB"><param name="allowFullScreen" value="true"><param name="allowscriptaccess" value="always"><embed src="https://www.youtube.com/v/x9yHxLA2Z5I?fs=1&amp;hl=en_GB" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="480" height="385"></embed></object><br />
+<br />Endlessly appropriate that the sound of reductionism is dubstep.<br /><br /><br />6. <em>Moment of clarity</em> <br />
+<div align="left">
+(Lamia - Keats)</div>
+<br />"...Poor Lamia answer'd not.<br />He gaz'd into her eyes, and not a jot<br />Own'd they the lovelorn piteous appeal:<br />More, more he gaz'd: his human senses reel:<br />Some hungry spell that loveliness absorbs;<br />There was no recognition in those orbs.<br />"Lamia!" he cried - and no soft-toned reply.<br />The many heard, and the loud revelry<br />Grew hush; the stately music no more breathes;<br />The myrtle sicken'd in a thousand wreaths.<br />By faint degrees, voice, lute, and pleasure ceased;<br />A deadly silence step by step increased,<br />Until it seem'd a horrid presence there,<br />And not a man but felt the terror in his hair.<br />"Lamia!" he shriek'd; and nothing but the shriek<br />With its sad echo did the silence break.<br />"Begone, foul dream!" he cried, gazing again<br />In the bride's face, where now no azure vein<br />Wander'd on fair-spaced temples; no soft bloom<br />Misted the cheek; no passion to illume<br />The deep-recessed vision - all was blight;<br />Lamia, no longer fair, there sat a deadly white..."<br /><br /><div align="left">
+7. <em>Grown apart.</em> / <em>Things just aren't going anywhere</em>.<br />
+Also,&nbsp;maybe excess intimacy breeds resentment, somehow?<br />
+<br />
+<object height="385" width="360"><param name="movie" value="https://www.youtube.com/v/ZpSy2JFJ6iI?fs=1&amp;hl=en_GB"><param name="allowFullScreen" value="true"><param name="allowscriptaccess" value="always"><embed src="https://www.youtube.com/v/ZpSy2JFJ6iI?fs=1&amp;hl=en_GB" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" height="385" width="480"></embed></object></div>
+<em></em><br /><em></em><br /><em><br />
+<br />
+8. <em>Utilitarianism.</em><br /><br /><object height="385" width="360"><param name="movie" value="https://www.youtube.com/v/9Zrk4Tq2UOg?fs=1&amp;hl=en_GB"><param name="allowFullScreen" value="true"><param name="allowscriptaccess" value="always"><embed src="https://www.youtube.com/v/9Zrk4Tq2UOg?fs=1&amp;hl=en_GB" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" height="385" width="480"></embed></object></em><div align="left">
+<br />
+<object height="385" width="360"><param name="movie" value="https://www.youtube.com/v/FY3eEhfY6o4?fs=1&amp;hl=en_GB"><param name="allowFullScreen" value="true"><param name="allowscriptaccess" value="always"><br /><br /><br /><br /><embed src="https://www.youtube.com/v/FY3eEhfY6o4?fs=1&amp;hl=en_GB" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" height="385" width="480"></embed></object><br />
+<br /></div>
+<div align="left">
+&nbsp;</div>
+<div align="left"><br />
+<em><br />9. <em>Because they cannot dance</em>. </em><br /><object height="385" width="360"><param name="movie" value="https://www.youtube.com/v/AiJBjv911VM?fs=1&amp;hl=en_GB"><param name="allowFullScreen" value="true"><param name="allowscriptaccess" value="always"><embed src="https://www.youtube.com/v/AiJBjv911VM?fs=1&amp;hl=en_GB" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" height="385" width="360"></embed></object></div>
+<div style="text-align: left;">
+(<em>Astounding</em> comment attached in that link: <span style="color: #cc9933;">"Genesis found a way to convert sex into sound."</span>) <br /></div>
+<div align="left"><br><br>
+
+
+IRL, none of these are reason enough for the spurned. So once you find yourself with one of them, the search for a <em>pretext</em> to leave begins. (The most common being the orifices of another person.)</div>
+<span style="font-style: italic;"><br /></span><em><a href="http://1.bp.blogspot.com/_1jKHfOdSZhQ/TIt6P5Sk5-I/AAAAAAAAAbY/LlKFUHotQDg/s1600/alka_seltzer.jpg"><img alt="" border="0" src="https://1.bp.blogspot.com/_1jKHfOdSZhQ/TIt6P5Sk5-I/AAAAAAAAAbY/LlKFUHotQDg/s400/alka_seltzer.jpg" id="BLOGGER_PHOTO_ID_5515636582140667874" style="display: block; height: 196px; margin: 0px auto 10px; text-align: center; width: 249px;"></a></em> -->

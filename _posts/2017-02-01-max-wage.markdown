@@ -1,0 +1,38 @@
+---
+layout:     post
+title:      "What's the highest moral wage?"
+baselink:   /maximum
+permalink:  /maximum/
+date:       2014-01-11  <!--site.time-->
+author:     Gavin   
+img:		/img/fish.jpg
+
+visible:    1
+simple:		true
+stylised:	true
+quality:    6
+
+summary:    Estimate of how much money a maximizing consequentialist is allowed.
+confidence:	90% in the numbers, 50% in the ethics.
+warnings:   scrupulosity
+categories: effective-altruism, economics, ethics
+importance: 8
+pride:		5
+wordcount: 	2169
+started:    2013
+---
+
+{%	include maxwage/links.md	%} 
+
+
+<div id="simple" class="tabContent">
+	{%	include maxwage/max-simple.html	%}
+</div>
+
+<div id="stylised" class="tabContent defaultOpen">
+	{%	include maxwage/max-stylised.html	%}
+</div>
+
+<br><br>
+
+

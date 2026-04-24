@@ -1,0 +1,47 @@
+{%		assign kafka = "http://us.milliman.com/uploadedFiles/insight/life-published/pdfs/from-the-office.pdf"		%}
+{%		assign zed = "https://learnpythonthehardway.org/python3/advice.html"		%}
+{%		assign rao = "https://www.ribbonfarm.com/2009/10/07/the-gervais-principle-or-the-office-according-to-the-office/"		%}
+{%		assign bakan = "https://en.wikiquote.org/wiki/Joel_Bakan"		%}
+{%		assign klein = "https://en.wikipedia.org/wiki/No_Logo"		%}
+{%		assign chomsky = "http://www.ontheissues.org/Celeb/Noam_Chomsky_Corporations.htm"		%}
+		
+{%		assign mujo = "http://mujoco.org/"		%}
+{%		assign garden = "http://www.iambeingfired.co.uk/gardenleave.html"		%}
+{%		assign age = "https://www.cnbc.com/2017/08/24/technology-killing-off-corporations-average-lifespan-of-company-under-20-years.html"		%}
+{%		assign immort = "https://fortune.com/longform/fortune-500-through-the-ages/"		%}
+{%		assign baum = "https://www.goodreads.com/review/show/2876187626"		%}
+{%		assign boy = "https://www.theguardian.com/books/2008/jul/01/1"		%}
+{%		assign mechImg = "/img/mech.jpg"			%}
+{%		assign prettyImg = "/img/shot.jpg"			%}
+{%		assign walkie = "/img/walkie.jpg"			%}
+{%		assign mill = "https://en.wikipedia.org/wiki/Hedonic_treadmill"			%}
+
+{%		assign watch = "https://corpwatch.org/company-search"		%}
+{%		assign felon = "https://en.wikipedia.org/wiki/List_of_companies_convicted_of_felony_offenses_in_the_United_States"		%}
+{%		assign gardner = "https://www.techrepublic.com/article/85-of-big-data-projects-fail-but-your-developers-can-help-yours-succeed/"		%}
+{%		assign gigo = "https://en.wikipedia.org/wiki/Garbage_in,_garbage_out"		%}
+{%		assign e2g = "https://en.wikipedia.org/wiki/Earning_to_give"		%}
+
+{%		assign grae = "https://www.goodreads.com/review/show/2434061627"		%}
+{%		assign cowen = "https://www.city-journal.org/big-business-tyler-cowen"		%}
+{%		assign city = "https://en.wikipedia.org/wiki/City_of_London"			%}
+{%		assign umesh = "https://www.scottaaronson.com/blog/?p=40"		%}
+{%		assign rpa = "https://en.wikipedia.org/wiki/Robotic_process_automation"		%}
+{%		assign direct = "https://forum.effectivealtruism.org/ea/zy/earning_to_give_v_pursuing_your_passiondirect_work/"		%}
+{%		assign bore = "https://en.wikipedia.org/wiki/Boreout"		%}
+{%		assign blow = "https://news.ycombinator.com/threads?id=jblow&next=7789438"		%}
+{%		assign marx = "https://en.m.wikipedia.org/wiki/Marx%27s_theory_of_alienation"		%}
+{%		assign wright = "https://mailchi.mp/f89989bbf9d1/mailinglist-473923"		%}
+{%		assign boy = "https://english.stackexchange.com/questions/35875/is-the-term-city-boy-a-commonly-used-appellation-for-london-bankers-does-it-o"		%}
+{%		assign performance = "http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.172.1733&rep=rep1&type=pdf"		%}
+{%		assign luu = "https://danluu.com/wat/"		%}
+{%		assign health = "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2821100/"		%}
+{%		assign challenger = "https://en.wikipedia.org/wiki/Space_Shuttle_Challenger_disaster"		%}
+{%		assign foone = "https://foone.wordpress.com/2019/02/14/normalization-of-deviance/"		%}
+{%		assign proof = "https://en.wikipedia.org/wiki/Social_proof"		%}
+{%		assign pollute = "https://www.huffpost.com/entry/the-grim-pollution-pictur_b_9266764?guccounter=1"	%}
+{%		assign cii = "https://www.cii.co.uk/fact-files/actuarial/basic-concepts-and-techniques-of-the-pricing-process/#fro"		%}
+{%		assign protected = "https://en.wikipedia.org/wiki/Protected_group"		%}
+{%		assign ogden = "https://www.intelligentinsurer.com/news/uk-insurers-hugely-disappointed-as-ogden-discount-rate-set-at-minus-0-25-18751"	%}
+{%		assign brex = "https://www.gov.uk/guidance/regulations-and-standards-after-brexit"		%}
+{%		assign drucker = "https://en.wikipedia.org/wiki/Peter_Drucker"		%}

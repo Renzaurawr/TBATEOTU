@@ -1,0 +1,34 @@
+{%	assign treee = "https://arxiv.org/abs/2302.04081"	%}
+{%	assign treeecode = "https://github.com/H-B-P/treedepth"	%}
+
+
+<tr>
+	<td class="logo">
+		<a href="{{treee}}">
+			<img src="/img/DALLE decision trees cracks.jpg" />
+		</a>
+	</td>
+	<td style="padding-left: 5px">
+		<h4>
+			<a class="nolink" style="font-size: 17px" href="{{treee}}" target="_blank">
+				Decision trees compensate for misspecification
+				<span class="year">(2021)</span>
+			</a>
+		</h4>
+		<div class="journo"></div>
+		<!--  -->
+		<span class="dropdown">
+		  <button class="dropped" onclick="javascript:drop('treee')">The point</button>
+		  <div id="treee" class="dropdown-content">
+			<br>
+			My friend Hugh was convinced that linear models should be able to match decision tree ensembles in many places, and we had both seen stuff like depth-12 trees used in industry, which just don't make sense on a naive account.<br><br> 
+
+			We contrived a few neat stochastic processes to test a few ways that the depth of the trees could be helping with various realistic data flaws. Turns out that depth partially fixes a bunch of modelling and training errors: if you don't run training long enough, if you use the wrong link function, if you assume single responses when the response is actually composite, if you assume homogeneity in a heterogeneous population, if there are missing variables. Also a couple of simple extensions to Gaussian mixture modelling with lines.<br><br>
+
+			Our linear fixes didn't work that well on randomly selected <i>real</i> data though.<br><br>
+
+			<i>Total hours I contributed</i>: 50.
+		  </div>, <a href="{{treeecode}}">code</a>
+		</span>
+	</td>
+</tr>

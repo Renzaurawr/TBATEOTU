@@ -1,0 +1,118 @@
+{%	assign ous = "http://www.jimaceverett.com/research/consequentialism/oxford-utilitarianism-scale/"	%}
+{%	assign found = "http://www.moralfoundations.org/"	%}
+{%	assign foundImg = "/img/psych/moral_found.png"		%}
+{%	assign schwartzDoc = "http://www.yourmorals.org/schwartz.2006.basic%20human%20values.pdf"		%}
+{%	assign schwartzImg = "/img/psych/schwartz_values.png"		%}
+{%	assign big5 = "https://en.wikipedia.org/wiki/Big_Five_personality_traits"		%}
+{%	assign fiveImg = "/img/psych/big_five.png"		%}
+{%	assign mac = "https://www.sciencedirect.com/science/article/pii/S0092656618303568"	%}
+{%	assign macquest = "https://osf.io/x75rc/"		%}
+{%		assign intval = "https://programs.clearerthinking.org/intrinsic_values_test.html"	%}
+{%		assign clusterPercent = "/img/psych/ct_clusters.png"	%}
+{%		assign moralPhil = "/img/psych/philo.png"	%}
+{%		assign cats = "/img/psych/cats.png"	%}
+{%		assign hartree = "https://forum.effectivealtruism.org/posts/av7MiEhi983SjoXTe/some-core-assumptions-of-effective-altruism-according-to-me"	%}
+{%		assign mtg = "https://still-anchorage-15218.herokuapp.com/"	%}
+{%	assign mtgImg = "/img/psych/mtg.png"		%}
+
+{%	assign kin = "https://en.wikipedia.org/wiki/Kin_selection"		%}
+{%	assign convent = "https://plato.stanford.edu/entries/convention/#Lew"		%}
+{%	assign recip = "https://en.wikipedia.org/wiki/Reciprocal_altruism"		%}
+{%	assign hd = "https://en.wikipedia.org/wiki/Chicken_(game)#Hawk%E2%80%93dove"		%}
+{%	assign division = "https://tannerlectures.utah.edu/_documents/a-to-z/s/Skyrms_07.pdf"		%}
+{%	assign prop = "http://www.umass.edu/preferen/gintis/EvPropJEBOVersion.pdf"		%}
+
+
+<h3>Psychology</h3>
+<div>
+
+<a href="{{mac}}">Morality as Co-operation</a> (<a href="{{macquest}}">questionnaire</a>):
+<ul>
+	<li><i><a href="{{kin}}">Family</a></i>: 17 / 100 (vs population mean 70)</li>
+	<li><i><a href="{{convent}}">Group</a></i>: 28 / 100 (vs pop. mean 66)</li>
+	<li><i><a href="{{recip}}">Reciprocity</a></i>: 53 / 100 (vs pop. mean 73)</li>
+	<li><i><a href="{{hd}}">Heroism</a></i>: 48 / 100 (vs pop. mean 67)</li>
+	<li><i><a href="{{hd}}">Deference</a></i>: 3 / 100 (vs pop. mean 59)</li>
+	<li><i><a href="{{division}}">Fairness</a></i>: 52 / 100 (vs pop. mean 66)</li>
+	<li><i><a href="{{prop}}">Property</a></i>: 37 / 100 (vs pop. mean 64)</li>
+</ul>
+(Really not a fan of evolved morality.)
+<br><br><br>
+
+
+<a href="{{ous}}">Oxford Utilitarianism Scale</a>
+<ul>
+	<li>Impartial Beneficence: 33 out of 35</li>
+	<li>Instrumental Harm: 21 out of 28</li>
+</ul>
+<br><br>
+
+ 
+	
+<a href="{{intval}}">Intrinsic Values Test</a>
+<a href="{{clusterPercent}}"><div id="clustersImg"></div></a>
+<a href="{{moralPhil}}"><div id="philoImg"></div></a>
+<a href="{{cats}}"><div id="catsImg"></div></a>
+
+<br><br>
+
+
+
+<a href="{{found}}">Moral Foundations</a>:
+<a href="{{foundImg}}"><div id="foundImg"></div></a>
+<br><br>
+
+<!-- <li>
+	<a href="{{schwartzDoc}}">Schwartz' Value Survey</a>
+	<a href="{{schwartzImg}}"><div id="schwartzImg"></div></a>
+	<br><br>
+	
+	<center><a href="#fn:100" id="fnref:100">100</a></center>
+</li><br><br>
+ -->
+ 
+
+
+<a href="{{big5}}">The Big Five</a>
+<a href="{{fiveImg}}"><div id="fiveImg"></div></a>
+<br><br><br>
+
+
+<a href="{{mtg}}">MtG Color Wheel</a>
+<a href="{{mtgImg}}"><div id="mtgImg"></div></a>
+<br><br><br>
+
+<a href="{{hartree}}">Core assumptions of effective altruism</a>
+66%.
+
+<br><br>
+
+
+<br>
+
+{%	include js/lazyFrame.html		%}
+
+<!-- Lazy loaders for the charts -->
+<script>  
+	var src = "{{foundImg}}";
+	definiteEvent( createImg, [src, "foundImg"] ); 
+	var src = "{{clusterPercent}}";
+	definiteEvent( createImg, [src, "clustersImg"] ); 
+	var src = "{{moralPhil}}";
+	definiteEvent( createImg, [src, "philoImg"] ); 
+	var src = "{{cats}}";
+	definiteEvent( createImg, [src, "catsImg"] ); 
+
+	//var src = "{{schwartzImg}}";
+	//definiteEvent( createImg, [src, "schwartzImg"] ); 
+	var src = "{{fiveImg}}";
+	definiteEvent( createImg, [src, "fiveImg"] ); 
+	var src = "{{mtgImg}}";
+	definiteEvent( createImg, [src, "mtgImg"] ); 
+</script>
+
+
+
+
+
+</div>

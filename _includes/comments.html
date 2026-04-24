@@ -1,0 +1,48 @@
+{%  assign slug = page.title | slugify %}
+
+
+<div class="accordion">
+  	<h3>Leave a comment</h3>
+  
+  	<div>
+	{% if site.data.comments[slug] %}
+		{% assign comments = site.data.comments[slug] | sort %}
+		<div class="comments">
+			{% for comment in comments %}
+
+			<b>{{ comment[1].name }}</b> commented on <em>{{ comment[1].date | date: "%d %B %Y" }}</em> :
+				<p>
+					<blockquote>{{ comment[1].message | markdownify }}</blockquote>
+				</p>
+			<hr>
+			{% endfor %}
+		</div>
+	{% endif %}
+
+
+		<form style="display: flex; flex-direction: column; gap: 1em;" name="{{slug}}" netlify>
+
+			<div style="display: flex; gap: 1em;">
+				<label style="display: inline-flex; flex-direction: column; gap: 2px; width: calc(50% - 0.5em)">
+					<small> Name </small>
+					<input style="padding: 5px 6px" type="text" name="name" placeholder="Name"/>
+				</label>
+	
+				<label style="display: inline-flex; flex-direction: column; gap: 2px; width: calc(50% - 0.5em)">
+					<small> Email </small>
+					<input  style="padding: 5px 6px" type="email" name="email" placeholder="Email address"/>
+				</label>
+			</div>
+
+			
+
+			<!-- <label style="display: flex; flex-direction: column; gap: 2px"> -->
+				<!-- <small> Message </small> -->
+				<textarea style="width: 100%; height: 12em; padding: 6px" name="message" placeholder="Type here. Markdown is fine."></textarea>
+			<!-- </label> -->
+
+			<button type="submit" style="padding: 5px 6px;">Send</button>
+		</form>
+	</div>
+
+</div>

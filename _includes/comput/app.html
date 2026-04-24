@@ -1,0 +1,308 @@
+{%    include comput/appCss.html    %}
+
+<script language="JavaScript" type="text/javascript" src="/scripts/jquery.min.js"></script>
+<script type="text/javascript">
+  $(document).ready(function() {
+      $.ajax({
+          type: "GET",
+          url: "/files/computers.csv",
+          dataType: "text",
+          success: function(data) {
+            var l = processData(data);
+            console.log(l[0])
+            //init app
+          }
+       });
+  });
+
+  function processData(allText) {
+      var record_num = 16;  // or however many elements there are in each row
+      var allTextLines = allText.split(/\r\n|\n/);
+      var entries = allTextLines[0].split(',');
+      console.log(allTextLines[1])
+      var lines = [];
+
+      var headings = entries.splice(0,record_num);
+      console.log(headings)
+      while (entries.length>0) {
+          var tarr = [];
+          for (var j=0; j<record_num; j++) {
+              tarr.push(headings[j]+":"+entries.shift());
+          }
+          lines.push(tarr);
+      }
+    return lines;
+  }
+</script>
+
+
+<div id="container">
+
+    <fieldset class="resultRow">
+      <center>
+        <img id="computerImg" />
+
+        <div id="resultText">
+          <div id="computer"></div><br>
+          <div id="protagonists"></div>
+          <span id="date"></span>
+        </div>
+
+      </center>
+    </fieldset>
+
+
+    <fieldset class="roww" >
+      <label class="top">
+        <img src="/img/comput/activity.svg" />
+        What conveys its signals?<br>
+        </label>
+      <input type = "radio"
+             name = "signals"
+             id = "mech"
+             value = "mechanical"
+             onclick="ComputerViewer.refresh(this.name)" />
+      <label for="mech">entirely nonelectrical parts<br></label>
+      <input type = "radio"
+             name = "signals"
+             id = "elmech"
+             value = "electromechanical"
+             checked = "checked"
+             onclick="ComputerViewer.refresh(this.name)" />
+      <label for="elmech">electromechanical parts<br></label>
+      <input type = "radio"
+             name = "signals"
+             id = "electro"
+             value = "fully-electronic"
+             onclick="ComputerViewer.refresh(this.name)" />
+      <label for="electro">fully electronic parts<br> </label>
+    </fieldset>
+
+
+    <fieldset class="roww">
+      <label class="top">
+        <img src="/img/comput/list.svg" />&nbsp;
+        Is it programmable? 
+      </label>
+      <input type = "radio"
+             name = "programmables"
+             value = "programmable"
+             id = "program"
+             onclick="ComputerViewer.refresh(this.name)"
+             checked = "checked" />
+      <label for="program">Yes</label>
+      <input type = "radio"
+             name = "programmables"
+             id = "nonprogram"
+             value = "fixed-job"
+             onclick="ComputerViewer.refresh(this.name)" />
+      <label for="nonprogram">No</label>
+    </fieldset>
+
+
+    <fieldset class="roww">
+      <label class="top">
+        <img src="/img/comput/all.svg" style="height: 1.4em;" />
+        Can it approximate all Turing machines?
+      </label>
+      <input type = "radio"
+             name = "universal"
+             id = "general"
+             value = "general-purpose"
+             onclick="ComputerViewer.refresh(this.name)"
+             checked = "checked" />
+      <label for="general">Yes</label>
+      <input type = "radio"
+             name = "universal"
+             id = "special"
+             value = "special-purpose"
+             onclick="ComputerViewer.refresh(this.name)"  />
+      <label for="special">No</label>
+    </fieldset>
+
+
+    <fieldset class="roww">
+      <label class="top">
+        <img src="/img/comput/toggle-right.svg" style="height: 1.3em;" />&nbsp;
+        How does it represent numbers?
+      </label>
+      <input type = "radio"
+             name = "representation"
+             id = "digital"
+             value = "digital"
+             onclick="ComputerViewer.refresh(this.name)"
+             checked = "checked" />
+      <label for="digital">Digital (integers)</label><br>
+      <input type = "radio"
+             name = "representation"
+             id = "analog"
+             value = "analogue"
+             onclick="ComputerViewer.refresh(this.name)"  />
+      <label for="analog">Analogue (smooth physical states)</label>
+    </fieldset>
+
+
+    <fieldset class="roww" >
+      <label class="top">
+        <img src="/img/comput/clock.svg" style="height: 1.3em;" />&nbsp;
+        What base are its numbers?</label>
+      <input type = "radio"
+             name = "base"
+             id = "base2"
+             value = "binary"
+             onclick="ComputerViewer.refresh(this.name)"  />
+      <label for="base2">2 - Binary</label>
+      <input type = "radio"
+             name = "base"
+             id = "base3"
+             value = "ternary"
+             onclick="ComputerViewer.refresh(this.name)"  />
+      <label for="base3">3 - Ternary</label><br>
+       <input type = "radio"
+             name = "base"
+             id = "base10"
+             value = "decimal"
+             onclick="ComputerViewer.refresh(this.name)"  />
+      <label for="base10">10 - Decimal</label>
+    </fieldset>
+
+
+    <fieldset class="roww" >
+      <label class="top">
+        <img src="/img/comput/voicemail.svg" />&nbsp;
+        Does it store programs as data?</label>
+      <input type = "radio"
+             name = "stored"
+             id = "stor"
+             value = "stored-program"
+             onclick="ComputerViewer.refresh(this.name)" />
+      <label for="stor">Yes</label>
+      <input type = "radio"
+             name = "stored"
+             id = "nonstor"
+             value = "structure-program"
+             onclick="ComputerViewer.refresh(this.name)" />
+      <label for="nonstor">No</label>
+    </fieldset>
+
+    <fieldset class="roww">
+      <label class="top">
+        <img src="/img/comput/parallel.ico" style="height: 1.3em;" />&nbsp;
+        How many bits are transmitted at once?
+      </label>
+      <input type = "radio"
+             name = "transmission"
+             id = "seria"
+             value = "serial"
+             onclick="ComputerViewer.refresh(this.name)" />
+      <label for="seria">Serial (one)</label><br>
+      <input type = "radio"
+             name = "transmission"
+             id = "parall"
+             value = "parallel"
+             onclick="ComputerViewer.refresh(this.name)" />
+      <label for="parall">Parallel (several)</label>
+    </fieldset>
+
+
+    <fieldset class="roww">
+       <label class="top">
+        <img src="/img/comput/transistor.svg" style="height: 1.3em;" />&nbsp;
+        Is it made of transistors?</label>
+      <input type = "radio"
+             name = "transistorised"
+             id = "trans"
+             value = "transistorised"
+             onclick="ComputerViewer.refresh(this.name)" />
+      <label for="trans">Yes</label>
+      <input type = "radio"
+             name = "transistorised"
+             id = "nontrans"
+             value = "nontransistorised"
+             onclick="ComputerViewer.refresh(this.name)" />
+      <label for="nontrans">No</label>
+    </fieldset>
+
+
+    <fieldset class="roww">
+      <label class="top">
+        <img src="/img/comput/map.svg" />&nbsp;
+        Does it use virtual memory addressing?
+      </label>
+      <input type = "radio"
+             name = "virtual"
+             id = "virt"
+             value = "virtual-memory"
+             onclick="ComputerViewer.refresh(this.name)" />
+      <label for="virt">Yes</label>
+      <input type = "radio"
+             name = "virtual"
+             id = "nonvirt"
+             value = "physical-memory"
+             onclick="ComputerViewer.refresh(this.name)" />
+      <label for="nonvirt">No</label>
+    </fieldset>
+
+     
+    <fieldset class="roww">
+      <label class="top">
+        <img src="/img/comput/cpu.svg" />&nbsp;
+        What kind of instruction set does it use?</label>
+      <input type = "radio"
+             name = "instructions"
+             id = "hardwire"
+             value = ""
+             onclick="ComputerViewer.refresh(this.name)" />
+      <label for="hardwire">Hard-wired gates</label><br>
+      <input type = "radio"
+             name = "instructions"
+             id = "cisc"
+             value = "CISC"
+             onclick="ComputerViewer.refresh(this.name)" />
+      <label for="cisc">CISC</label>
+      <input type = "radio"
+             name = "instructions"
+             id = "risc"
+             value = "RISC"
+             onclick="ComputerViewer.refresh(this.name)" />
+      <label for="risc">RISC</label>
+    </fieldset>
+
+
+    <fieldset class="roww">
+      <label class="top">
+        <img src="/img/comput/image.svg" />&nbsp;
+        Did it have a GUI as primary interface?</label>
+      <input type = "radio"
+             name = "gui"
+             id = "hasGui"
+             value = "gui-based"
+             onclick="ComputerViewer.refresh(this.name)" />
+      <label for="hasGui">Yes</label>
+      <input type = "radio"
+             name = "gui"
+             id = "noGui"
+             value = ""
+             onclick="ComputerViewer.refresh(this.name)" />
+      <label for="hasGui">No</label>
+     </fieldset>
+
+     
+</div>
+
+<div id="nukem"> 
+    <button onclick="ComputerViewer.reset()" >Reset fields</button>
+</div>
+
+
+<!-- 
+     I wish I knew why I have to do this. But life is short:
+-->
+<script>
+    document.getElementById("computerImg").src = "/img/spin.gif";
+    document.getElementById("computerImg").style.display = "none";
+</script>
+
+<script src="/scripts/comput/ComputerViewer.min.js"></script> 
+<br>
+

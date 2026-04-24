@@ -1,0 +1,54 @@
+{%  assign id = "fabimg"  %}
+{%  assign fabr = "https://www.lulu.com/shop/olga-babeeva-and-gavin-leech/the-fabric-book/hardcover/product-w4yw5q2.html" %}
+{%  assign gol = "https://www.lulu.com/shop/olga-babeeva-and-gavin-leech/the-fabric-book-gol/hardcover/product-57y29kp.html" %}
+{%  assign green = "https://www.lulu.com/shop/olga-babeeva-and-gavin-leech/the-fabric-book-green/hardcover/product-7kvrmnw.html"   %}
+{%  assign grf = "https://www.goodreads.com/book/show/240301008-the-fabric-book"   %}
+
+<tr>
+    <td class="logo">
+        <a href="{{fabr}}">
+            <div id="{{id}}"></div>
+        </a>
+    </td>
+    <td style="padding-left: 5px">
+        <h4>
+            <a class="nolink" style="font-size:20px;padding-bottom: 8px;padding-top: 16px" href="{{fabr}}" target="_blank">
+                The Fabric Book
+                <span class="year">(2025)</span>
+            </a> 
+        </h4>
+        <div class="journo">
+            <a class="nolink" href="https://fabric.camp">fabric.camp</a>
+        </div>        
+        <br>
+        <div style="width: 81%;">
+            <small>
+                <blockquote class="nah" style="margin-bottom: 1px;">
+                Attending camp was one of the most valuable weeks of my life. Crucial life lessons, hard to teach: that I can choose my own path in life, that I can just do things, that I can choose to be ambitious. I learned these seeds that week. An essay is a paltry substitute, but we've tried.
+                </blockquote>
+                    <div style="text-align: right;">
+                        – <a class="nolink" href="https://www.neelnanda.io/about">Neel Nanda</a>
+                    </div>
+            </small>    
+        </div>
+        <br>
+        <span class="dropdown">
+          <button class="dropped" onclick="javascript:drop('fabric')">The point</button>,
+          <div id="fabric" class="dropdown-content">
+            <br>
+            I edited a volume of the best essays by the <a href="https://fabric.camp">Fabric</a> community. A distinct lineage of rationality I love.
+            <br><br>
+            <i>Authors</i>: Various. Thanks also to Olga for the great cover designs, Phil for the LaTeX, and Xavi for the maths. 
+            <br><br>
+          </div>
+        </span>
+        <a href="{{fabr}}" target="_blank">Lulu</a>, <a href="{{gol}}">alt</a>, <a href="{{green}}">alt</a>, <a href="{{grf}}">Goodreads</a>.
+    </td>
+</tr>
+
+
+
+<script>  
+    var src="/img/fabricf.png"; 
+    definiteEvent( createImg, [src, "{{id}}"] ); 
+</script>

@@ -1,0 +1,46 @@
+{%	assign id = "coviddataimg" 	%}
+{%	assign datadatadata = "https://figshare.com/articles/dataset/A_dataset_of_non-pharmaceutical_interventions_on_SARS-CoV-2_in_Europe/16777918/1" 	%}
+
+
+<tr>
+	<td class="logo">
+		<a href="{{coviddata}}">
+			<div id="{{id}}"></div>
+		</a>
+	</td>
+	<td style="padding-left: 5px">
+		<h4>
+			<a class="nolink" style="font-size: 17px" href="{{coviddata}}" target="_blank">
+				Dataset: state interventions against Covid
+				<span class="year">(2022)</span>
+			</a>
+		</h4>
+		
+		<div class="journo">
+			<a class="nolink" href="{{coviddata}}" target="_blank"><i>Nature Scientific Data</i></a>
+		</div>
+		
+		
+		<span class="dropdown">
+		  <button class="dropped" onclick="javascript:drop('coviddata')">The point</button>,
+
+		  <div id="coviddata" class="dropdown-content">
+		  	<br>
+		  	<b>Full title: A dataset of non-pharmaceutical interventions on SARS-CoV-2 in Europe</b>
+			<br><br>
+			The dataset from the <a href="{{covid2}}">second wave paper</a>.<br><br>
+
+			<i>Authors</i>: George Altman, Janvi Ahuja, Joshua Monrad, Gurpreet Dhaliwal, Charlie Rogers-Smith, <span class="me">Gavin Leech</span>, Benedict Snodin, Jonas B. Sandbrink, Lukas Finnveden, Alexander John Norman, Sebastian B. Oehm, Julia Fabienne Sandkühler, Jan Kulveit, Seth Flaxman, Yarin Gal, Swapnil Mishra, Samir Bhatt, Mrinank Sharma, Sören Mindermann & Jan Markus Brauner  
+			<br><br>
+		  </div>
+		</span>
+		<a href="{{coviddata}}" target="_blank">the paper</a>, <a href="{{janvidataexplainer}}">explainer</a>, <a href="{{datadatadata}}">data</a>
+	</td>
+</tr>
+
+
+
+<script>  
+	var src="/img/papers/DALLE 2022-08-03 103801.jpg"; 
+    definiteEvent( createImg, [src, "{{id}}"] ); 
+</script>

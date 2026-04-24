@@ -1,0 +1,69 @@
+
+<div class="table-wrapper">
+  <table>
+    <tr class="no">
+      <th colspan="2">Stage</th>
+      <th>Operation</th>
+      <th>Conversion</th>
+    </tr>
+
+    <tr>
+      <td rowspan="2">Experiment</td>
+      <td>a) Logistics</td>
+      <td>Design, recruitment, conversation elicitation </td>
+      <td>From tasks to air-pressure waves (conversations).</td>
+    </tr>
+
+    <tr>
+      <td>b) Data collection</td>
+      <td>Recording task-oriented conversations via ‘Diapix’ prompts.</td>
+      <td>From conversations to wave recordings.</td>
+    </tr>
+
+    <tr>
+      <td rowspan="2">Preparation</td>
+      <td>c) Annotation</td>
+      <td>Manual tagging by word, phoneme, and precise timing. Then "segmentation" of each conversation into words.</td>
+      <td>From one conversation waveform to 109,730 waveforms tagged by time and word.</td>
+    </tr>
+
+    <tr>
+      <td>d) Feature extraction</td>
+      <td>Parameterisation of speech recordings. Also labelling vector sequences.</td>
+      <td>From waveforms to vector representations.</td>
+    </tr>
+
+    <tr>
+      <td rowspan="2">Modelling</td>
+      <td>e) Train</td>
+      <td>Global means and variances. Decoding and Baum-Welch re-estimation</td>
+      <td>From generic HMMs + training data, to trained models.</td>
+    </tr>
+
+    <tr>
+      <td>f) Test</td>
+      <td>The Forward-Backward algorithm (EM) for each word. </td>
+      <td>From trained models and test data, to conditional probability transcriptions for model pairs.</td>
+    </tr>
+
+    <tr>
+      <td rowspan="3">Analysis</td>
+      <td>g) Likelihoods </td>
+      <td>Subtraction of {log-likelihood given own model} from {log-likelihood given pair’s model}</td>
+      <td>From conditional probability transcriptions to likelihood ratios (point speaker-distance estimates).</td>
+    </tr>
+
+    <tr>
+      <td>h) Correlations</td>
+      <td>Spearman’s rank correlation between time and likelihood ratios.</td>
+      <td>From speaker-distances to correlations over time.</td>
+    </tr>
+
+    <tr>
+      <td>i) Inference</td>
+      <td>Thinking.</td>
+      <td>From correlations to this essay.</td>
+    </tr>
+    
+  </table>
+</div>

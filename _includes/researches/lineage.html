@@ -1,0 +1,53 @@
+{%	assign id = "lineageimg" 	%}
+{%	assign lineagecode = "https://github.com/ImperialCollegeLondon/SARS_CoV_2_variants_uk"	%}
+
+
+<tr>
+	<td class="logo">
+		<a href="{{eclinic}}">
+			<div id="{{id}}"></div>
+		</a>
+	</td>
+	<td style="padding-left: 5px">
+		<h4>
+			<a class="nolink" style="font-size: 17px" href="{{eclinic}}" target="_blank">
+				The rise of the Delta Covid variant
+				<span class="year">(2021)</span>
+			</a>
+		</h4>
+		<div class="journo">
+			<a class="nolink" href="{{eclinic}}" target="_blank">
+				<i>Lancet E-Clinical Medicine</i>
+			</a>
+		</div>
+		
+		<span class="dropdown">
+		  <button class="dropped" onclick="javascript:drop('covidlineage')">The point</button>,
+
+		  <div id="covidlineage" class="dropdown-content">
+			<br>
+			<b>Full title: 			Changing composition of SARS-CoV-2 lineages and rise of Delta variant in England </b>
+			<br><br>
+			By looking at tests and sewage data from early 2021, we saw that "the English variant" of COVID (B.1.1.7) which took over England in December was itself being displaced by other nasty variants. The main worry was that one of the new variants would be resistant to the vaccines.<br><br>
+
+			<i>Authors</i>: Swapnil Mishra, Sören Mindermann, Mrinank Sharma, Charles Whittaker, Thomas Mellan, Thomas Wilton, Dimitra Klapsa, Ryan Mate, Martin Fritzsche, Maria Zambon, Janvi Ahuja, Adam Howes, Xenia Miscouridou, Guy P Nason, Oliver Ratmann, <span class="me">Gavin Leech</span>, Julia Fabienne Sandkühler, Charlie Rogers-Smith, Michaela Vollmer, Juliette T Unwin, Yarin Gal, Meera Chand, Axel Gandy, Javier Martin, Erik Volz, Neil M Ferguson, Samir Bhatt, Jan M Brauner, Seth Flaxman<br>
+
+			<i>Total hours I contributed</i>: 10.
+			<br>
+
+			<a href="https://plu.mx/plum/a/?doi=10.1016%2Fj.eclinm.2021.101064">
+				<img width="30%" src="/img/lineage.jpg" />
+			</a>
+			<br><br>
+		  </div>
+		</span>
+
+		<a href="{{eclinic}}" target="_blank">the paper</a>, <a href="{{janlineage}}">explainer</a>, <a href="{{impblog}}">discussion</a>, <a href="{{lineagecode}}">code</a>
+	</td>
+</tr>
+
+
+<script>  
+	var src="/img/papers/sewage.jpg"; 
+    definiteEvent( createImg, [src, "{{id}}"] ); 
+</script>

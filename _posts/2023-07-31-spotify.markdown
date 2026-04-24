@@ -1,0 +1,207 @@
+---
+layout:     post
+title:      "Spotify is not a social network"
+baselink:   /spotify-trawl
+permalink:  /spotify-trawl
+date:       2023-09-10  <!--site.time-->
+author:     Gavin
+
+img:        /img/spot.jpg
+published:  true
+visible:    1
+quality:    6
+
+summary:    but also everything is
+confidence: 
+categories: music, lists
+warnings:   
+importance: 3
+wordcount:      
+where:      "Tallinn"
+---
+
+{%  assign inv = "https://www.inverse.com/input/culture/obsessed-listening-spying-strangers-old-spotify-playlists" %}
+{%  assign ed = "https://support.spotify.com/us/artists/article/pitching-music-to-playlist-editors/"    %}
+{%  assign wr = "https://www.cbc.ca/news/entertainment/spotify-wrapped-1.6673081/"    %}
+{%  assign shos = "https://twitter.com/g_leech_/status/1598328890820366343/photo/2"    %}
+{%  assign grift = "https://www.dk-mba.com/blog/spotify-playlist-curators"    %}
+{%  assign fun = "https://open.spotify.com/playlist/4gMdRsUTXiiFpCTLgowpOe"    %}
+{%  assign sco = "https://open.spotify.com/playlist/1esDdrCTXbNW2irTsMmYFF?si=1fb7e7257a294988"    %}
+{%  assign pave = "https://www.stereogum.com/2105993/pavement-harness-your-hopes-spotify/columns/sounding-board"    %}
+{%  assign part = "http://web.archive.org/web/20211208171826/https://open.spotify.com/playlist/55pmCAlEt45nfRiC9SFui5"    %}
+{%  assign dyl = "https://open.spotify.com/playlist/4yakVhk1BBXS3nXUEMh1RR?si=56de9a9ffe3e417d"    %}
+{%  assign love = "https://open.spotify.com/playlist/5KsSQBDOEKHmE98YO2PryV?si=b2c844563c904db6"    %}
+{%  assign forks = "https://open.spotify.com/user/forksclovetofu?si=7ed9184bff8f4d87"    %}
+{%  assign ida = "https://open.spotify.com/user/1232858610?si=fd89926c466a4e37"    %}
+{%  assign xgau = "https://www.robertchristgau.com/cg.php"    %}
+{%  assign scar = "https://scaruffi.com/music/groups.html"    %}
+{%  assign hull = "https://tomhull.com/ocston/nm/"  %}
+{%  assign g = "https://open.spotify.com/user/glennpmcdonald"   %}
+{%  assign mcd = "https://www.thestar.com/entertainment/meet-the-man-classifying-every-genre-of-music-on-spotify-all-1-387-of-them/article_250cba6e-d7c1-5b14-81f0-b7e89c26eddf.html" %}
+{%  assign wave = "https://rateyourmusic.com/discussion/music/spotify-data-analysts-just-invent-genres-now-apparently" %}
+{%  assign seven = "https://open.spotify.com/user/12168710240/playlists" %}
+{%  assign evans = "https://open.spotify.com/user/1258508389?si=3c9661dd7d5b4299"   %}
+{%  assign rockwell = "https://www.nytimes.com/2006/12/24/books/review/Lopate.t.html"  %}
+{%  assign prin = "https://www.markprindle.com/"  %}
+{%  assign tried = "https://techcrunch.com/2010/04/27/major-update-from-spotify-introduces-new-social-features/" %}
+
+
+<img src="/img/minutes.png" />
+<hr />
+
+<br>
+
+Everything you do on Spotify is public by default. You can follow other users, and their playlists, and see what they're listening to. But this isn't emphasised (you don't get any notifications about any of it), and I don't know anyone who takes much advantage of it (besides stumbling on user playlists in the course of your own missions). So if it's a social network it's the most solipsistic one. <a href="#fn:1" id="fnref:1">1</a> <a href="#fn:5" id="fnref:5">5</a>
+
+<!-- It doesn't emphasise other users at all. This obscures the fact that you can by default see anyone, and walk their graph. -->
+
+This false privacy means there's little incentive to lie, e.g. to pretend to like cool things you don't actually like. Coupled to the fact that music is near the centre of most(?) people's emotional lives, we thus get a uniquely sincere, accessible, and <a href="{{inv}}">far-reaching representation</a> of us. Peoplewatching, but for feelings.
+
+<br>
+
+<div class="accordion">
+    <h3>types of playlist</h3>
+    <div>
+        1. Functional, personal. The commission of altered states: workout, study, dancing, yoga for the anxious.<br><br>
+        2. Functional, social. Commissioning a vibe for a specific event. <a href="{{part}}">Parties</a>, road trips, and <a href="{{fun}}">funerals</a>. (Drown thought and conversation.)<br><br>
+        3. Best of 
+          <ul><li>[artist]. Or <a href="{{dyl}}">weirder</a> views of artist.</li>
+          <li>[<a href="{{seven}}">year</a>]</li>
+          <li>[<a href="/nation-sound">country</a>]</li>
+          <li>[<a href="{{sco}}">niche scene</a>]</li>
+          </ul><br>
+        4. mixtapes and fumbling <a href="{{love}}">love letters</a> composed with the words of others<br><br>
+        5. a sort of second-order art or found poetry<br>
+    </div>
+</div>
+<br><br>
+
+## Some little-known scholars of popular music
+
+I took a little walk around the user graph, looking for remarkable things. The following all impressed me with erudition or sheer determination (some of them have thousands of playlists; some have hundreds of times more playlists than followers).
+
+I am quite serious in calling them scholars. No doubt I missed the best, the equals of any musicologist.
+
+<br> 
+
+* <a href="https://open.spotify.com/user/ulyssestone?si=c516cb69e4e34e0e">Ulysses' Classical</a> (everything; incredibly deep dives by composer but also ECM)
+* <a href="https://open.spotify.com/user/acephale9?si=9eb1b44c1990473b">acephale9</a> (unbelievable amount of themes, daily)
+* <a href="https://open.spotify.com/user/123059001?si=9e441890f7fe46dc">Matthew Perpetua</a> (honest to god historiography and bleeding edge codification)
+* <a href="https://open.spotify.com/user/lukeprog?si=49ca306c5c6045c3">lukeprog</a> (modern classical, rock snob, the Scaruffi torch)
+<!-- * <a href="Joachim Pedersen"></a> -->
+<!-- * <a href="">MP -->
+* <a href="https://open.spotify.com/user/1121836615?si=4390963828ef4371">Eule Chris</a> (electronica, noise, strange _Wire_ sounds)
+* <a href="https://open.spotify.com/user/third_bridge_creative?si=73ed303e0b484e38">The Dowsers</a> (lots of following threads backwards, nothing is beneath attention)
+* <a href="https://open.spotify.com/user/1230297633?si=e067ec56ddbd4f23">zach</a> (extreme levels of detail about modern classical)
+* <a href="https://open.spotify.com/user/baskrud?si=e211d8e989e741f5">Brian Askrud</a> (weirdly popular pop guy)
+* <a href="https://open.spotify.com/user/hotdoorknobs?si=2e08c2bc6cf341e2">Alex naidus</a> (just a relentlessly varied procession of event and functional lists ["crying on the treadmill"])
+<!-- * <a href="Jazz Whatever -->
+* <a href="https://open.spotify.com/user/12168710240?si=3daca245aea049bf">Adam Duncan</a> (the hand of the king [Christgau])<!-- Xe-Xir -->
+<!-- * <a href="https://open.spotify.com/user/derekrobertson?si=8148f5a158174c3b">Derek Robertson</a> (maybe <a href="https://www.theguardian.com/profile/derek-robertson">this one</a>?) -->
+* <a href="{{ida}}">Ida-Rose Chabon</a> (all kinds of country subgenres)
+* <a href="https://open.spotify.com/user/1220511975?si=154976ff7eb848e2">Margeaux</a> (another simple cathedral of self)
+* <a href="https://open.spotify.com/user/1258508389?si=de955e6707864fa3">Jonathan Evans</a> (Synaesthetics)
+* <a href="https://open.spotify.com/user/dnled5ui4q28w1eh0i82h2syj?si=989f0a9970eb4159">Vapor Memory</a> (skip the artist playlists and scroll down to the labels)
+* <a href="https://open.spotify.com/user/1218340696?si=59663073cd3a43f7">Joe Schuetz</a> (hand of the king [Bangs], every angle on rock)
+* <a href="https://open.spotify.com/user/mofgimmers?si=8b5672e62d1b46b2">mofgimmers</a> (Taking Pills with the French, music for loud shirts, amazing single-artist lists)
+* <a href="https://open.spotify.com/user/wadeywade?si=e194bc7374ee4d5e">Ian Wade</a> (foreign charts, decades and decades)
+* <a href="{{evans}}">Jonathan Evans</a> (just really well-executed party lists and subsubgenres. Notable for colour-coding by mood)
+* <a href="https://open.spotify.com/user/fredpessaro?si=902f29a2dd3a46fa">Fred Pessaro</a> (music for DMVs, incels, lots of blind alleys and red herrings)
+<!-- * <a href="">Carrie white</a> -->
+<!-- * <a href="{{forks}}">Forks Clove Tofu</a>  -->
+<!-- * <a href="https://open.spotify.com/user/burningambulance?si=22b6ce8842f74f12"></a> -->
+* <a href="https://open.spotify.com/user/mgarbutt67?si=554e53acddaa48b0">Garbutt</a> (cryptic coded lists, Italianate Left Wing, Calamine Ocean, £5 Wedding Dress)
+* <a href="https://open.spotify.com/user/0q8gm4jtdfnbdy2vp94evyv5i?si=497ebbdaa41c41dd">Michelone</a> (profiles of artists, genres, moments, Italian music)
+* <a href="https://open.spotify.com/user/aperfecttool48?si=56e7b265c66c47d0">Tall Paul</a> (I just think he's neat)
+* <a href="https://open.spotify.com/user/gh_cl?si=b1065efe0b3a4727">ghcl</a> (lots of weird japan, musicforprogramming, obscure sounds, all manner of the world's weird)
+<!-- * <a href="https://open.spotify.com/user/1230297633?si=RU_9_pFZSuCb1EfXwomdKw"></a> -->
+* <a href="https://open.spotify.com/user/jazzwhat?si=c9611054718a4089">Jazz Whatever</a> (euro jazz by country, microgenres, soul, prog, so many labels)
+* <a href="https://open.spotify.com/user/115683679?si=0470438347f84f76">Joachim</a> (king of themes)
+<!-- * abachtel -->
+
+<br>
+
+This is not counting the paid geezers ("<a href="{{ed}}">playlist editors</a>") who publish as "Spotify". They are the central nodes, more influential than any music journalist. <a href="#fn:3" id="fnref:3">3</a> :
+
+* <a href="https://open.spotify.com/user/beefybanana?si=ecc99c87877c49dd">Adam P Gorman</a>
+* <a href="{{g}}">Glenn</a> <a href="{{mcd}}">McDonald</a>
+* I actually can't find any more but there must be dozens.
+
+
+
+<br>
+
+### Structuration
+
+Even if, like many users, you don't follow anyone else, you are still affected by users - they're the ultimate source of what you are recommended. <a href="#fn:2" id="fnref:2">2</a> This is just a legible version of [how you](https://en.wikipedia.org/wiki/Socialization) [came to be](https://en.wikipedia.org/wiki/Structuration_theory) and continue to change.
+
+It is completely unsurprising that Spotify <a href="{{wave}}">often</a> <a href="https://artists.spotify.com/en/blog/how-spotify-discovers-the-genres-of-tomorrow">discovers</a> and <a href="https://www.thefader.com/2020/12/02/escape-room-genre-spotify-unwrapped-explanation-every-noise-glenn-mcdonald">names</a> genres now. No one else can see what is happening and abstract away.
+
+<br>
+
+### The forbidden sociology of emotion
+
+This is the richest dataset in the world about music's functions, about trends, about curation and creativity. It's like getting a partial diary for 500 million people. But it's probably not good to use it for this, given that it _feels_ private to most users. 
+
+Still, you could use their historical data (pre-2014) as a baseline to see the effect of algorithms on listening patterns and so the emotional life of a whole society. The emanations of the [echo nest](https://en.wikipedia.org/wiki/The_Echo_Nest).
+
+<br>
+
+### Self-serving paean to curators
+
+Musical culture is now too large for anyone to even survey, let alone master - even if we window to contemporary musical culture alone, ignoring the past completely. We needed <a href="{{xgau}}">Christgau</a> (and <a href="{{scar}}">Scaruffi</a>, and <a href="{{hull}}">Hull</a> and <a href="{{prin}}">Prindle</a> and <a href="{{rockwell}}">Rockwell</a>), to find jewels in the dross and more importantly structure in the great noise. But the job is much harder now.
+
+Frankly we need critical service more than we need another great band. <a href="#fn:4" id="fnref:4">4</a> Something is lost without curation and interpretation: we can't understand. This post is me doing my bit on the third order: thinking about people who think about music. 
+
+<br><br>
+
+<div class="accordion">
+    <h3>Misc interesting profiles</h3>
+    <div>
+        * <a href="https://archive.is/geGXn">The US power elite has no taste</a>
+        * <a href="https://open.spotify.com/user/bbc_playlister?si=7a61bad7f7f543a7">BBC</a><br>
+        * <a href="https://open.spotify.com/user/tejucole?si=64f33db1bce943fd">Teju</a><br>
+        * <a href="https://open.spotify.com/user/124766372?si=6d9e651ab99a4a21">ooh</a><br>
+        https://open.spotify.com/user/aoty?si=69dc4ae6cf8d4f8c<br>
+        https://open.spotify.com/user/cherryredrecords?si=3d1db1a96169432b<br>
+* <a href="https://open.spotify.com/user/sashafrerejones?si=3dbf43de6c8f4820">SFJ</a><br>
+* <a href="https://open.spotify.com/user/sterlewine?si=c5792f7af1264e65">Erlewine</a><br>
+    </div>
+</div>
+
+
+<br>
+
+## See also
+
+* https://www.aware-online.com/en/osint-investigation-on-spotify/
+
+
+
+<div class="footnotes">
+
+<ol>
+    <!-- 1 -->
+    <li class="footnote" id="fn:1">
+        The exception is the 1st of December, when <a href="{{wr}}">lots</a> of people are genuinely <a href="{{shos}}">excited</a> to share their Wrapped statistics, to say something about themselves with the data.<br><br>
+        I should also note that it <a href="{{tried}}">tried</a> to be a social media platform in 2010.
+    </li>
+    <li class="footnote" id="fn:2">
+        Actually I think there's a decent amount of unsupervised learning in it now. Certainly there are plenty of <a href="{{pave}}">emergent things</a> which deviate from the normal canon.
+    </li>
+    <li class="footnote" id="fn:3">
+        Note the <a href="{{grift}}">marketing grift</a> from the desperate musicians' side, inadvertently proving that the editors are important.
+    </li>
+    <li class="footnote" id="fn:4">
+        The Spotify editors are doing a better job than you'd expect given their employer and their incentives, but it's not enough. This is because McDonald at least is <a href="https://furia.com/">an old-school obsessive</a> with more data than any other critic in history.<br><br>
+        I've never managed to watch a Fantano video all the way through, but god bless him anyway.
+    </li>
+    <li class="footnote" id="fn:5">
+        The funniest "social" feature of Spotify is that they will show you the number of people who liked your playlist but give you no way to find out who. 
+        <br><br>
+        <a href="https://open.spotify.com/user/12167202630/followers">I often</a> see users with just the user ID or a long alphanumeric hash as their name, which might be the result of them deleting their account. No way out.<br><br>
+        Another thing producing a sort of privacy is that the internal search sucks ass.
+    </li>
+</ol>
+
+</div>

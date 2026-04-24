@@ -1,0 +1,169 @@
+---
+layout:     post
+title:      "NY sounds"
+baselink:   /nysound
+permalink:  /nysound
+date:       2025-10-23
+author:     Gavin
+img:        /img/4.28.11BroadwayTheatreByLuigiNovi.jpg
+
+visible:    1
+published:  true
+quality:    6
+
+summary:    Trying and failing to get a grip
+warnings: 	
+importance: 4
+wordcount:  
+categories: places, music, hypothesis-dump
+where:      "Williamsburg"
+---
+
+
+> There are roughly three New Yorks. There is, first, the New York of the man or woman who was born here, who takes the city for granted and accepts its size and turbulence as natural and inevitable. Second, there is the New York of the commuter — the city that is devoured by locusts each day and spat out each night. Third, there is the New York of the person who was born somewhere else and came to New York in quest of something.<br><br>Of these three trembling cities the greatest is the last — the city of final destination, the city that is a goal. It is this third city that accounts for New York’s high-strung disposition, its poetical deportment, its dedication to the arts, and its incomparable achievements. Commuters give the city its tidal restlessness; natives give it solidity and continuity; but the settlers give it passion. And whether it is a farmer arriving from Italy to set up a small grocery store in a slum, or a young girl arriving from a small town in Mississippi to escape the indignity of being observed by her neighbors, or a boy arriving from the Corn Belt with a manuscript in his suitcase and a pain in his heart, it makes no difference: each embraces New York with the intense excitement of first love, each absorbs New York with the fresh eyes of an adventurer, each generates heat and light to dwarf the Consolidated Edison Company.
+
+<center>— EB White</center>
+
+<br>
+
+
+<a href="/nation-sound">I want to capture the best music in the world</a>. (This will include little "world music".) But I hit a snag - New York. It is just too huge to capture. ([Here's](https://open.spotify.com/playlist/0He9PPzeJfgHrjMJ5DPujT?si=W5P4eMmwSCehYJBIcTW-0g&pi=ZJ0uSBR4R22-D) what I have so far.)
+
+Why? What would a complete New York playlist have to cover? If you limited yourself just to totally new genres:
+
+
+* 1885-1930: Pop as we knew it ([Tin Pan Alley](https://open.spotify.com/playlist/22TWbFEbnhHv3CLCxOjoBW?si=-0SC9IIwSk6uHUE3HIBG_w&pi=5SwGoSP5TNmJV))
+* 1910-1950: [Big band](https://open.spotify.com/playlist/2cjIvuw4VVOQSeUAZfNiqY?si=IkjX9sTLTFq1akTzCO8msw) and swing. Duke, Calloway
+* 1910-1960, 1980-2019: **[The (American) Musical](https://open.spotify.com/playlist/34lA7pQ48yZ0osu0L0Khho?si=7lvxp__-TBiXPaEH2soYTw&pi=jOiFSjX3Sei8p)**: Berlin, Gershwin, Rodgers and Hammerstein and Hart, Bernstein, Kern, Wodehouse(!), Sondheim, Brown
+* 1940-1967: **[Bebop](https://open.spotify.com/playlist/6qu37CqWnpFDUFsJDAdHdJ?si=7n67uKSdQsuj5TwVgvLrdw&pi=Ud-2MsEJTmqgg)**, hard bop, cubop, cool
+* 1943-1970: **["Latin" jazz](https://open.spotify.com/playlist/4U0S060zi7Ldp6iS2Q5Xkw?si=PDhtm0gcQQWqRgCSXm6k_Q)** (Afro-Cuban, Puente, Barretto, Palmieri...)
+* 1930-1956: Globalised samba and calypso.
+* 1940-1970: **[Folk revival](https://open.spotify.com/playlist/62mKVd7nGrd5HdhZRsxBHR?si=eAluZS6xTHCncKlhA0wQGw&pi=xw3hzLGQQn2i-)**
+* 1958-1964: Pop as we know it (**[Brill machine](https://open.spotify.com/playlist/0O2lJe2zHcqCCjGAM0pU5W?si=tffcxHjXSvSIFFM-xjE0QQ&pi=IFsQTFoWTeud5)** pop rock, and thus, ultimately, K-pop) (Leiber-Stoller, Carole King et al)
+* 1960-1980: **Various Avant-Gardes** (Varèse, [New York School](https://open.spotify.com/playlist/08iPwSfynzSNMXJwYFiiFj?si=rGDRSMLUR0G6xnrfa3QvlQ&pi=UJZoEbP6Sn6_u), the Downtown scene, loft jazz, Fluxus, No wave, Minimalism, Avant Rock, Fluxus again, Free Jazz...)
+* 1970-1980: **[Disco](https://open.spotify.com/playlist/6LvkhZKZnOC2jpkTDysWhT?si=HS4Jf9HURd6fToHxrp0N6g&pi=z6wlFeehQlCL3 )** (Studio 54)
+* 1980: Globalised dub (Gibbons among the first Americans to incorporate techniques from dub production into dance music)
+* 1973-Present: **[Hip-hop](https://open.spotify.com/playlist/5M7jmBRGGEAB9whDzUjdyw?si=nvaR6l30TU-XOw7TT9ST9Q&pi=CvWJ8atfSEGd8)**
+* 1976-1980: **[Punk](https://open.spotify.com/playlist/3txw9Twsf7TKyTsre8e5a4?si=sZhgwVSBRrO2POAbVh0tLw&pi=H0E2-mUtTxe5W)**. [Post-punk](https://en.wikipedia.org/wiki/No_wave#1970s) slightly preceded punk.
+* 1980-1987: [Garage house](https://open.spotify.com/playlist/7hiyXzw0hbzypzwDNQND8O?si=uJ_Ql5REQLGXcdi4CtUKpg&pi=umE3CLZESwqGj)
+* 1985-?: [Antifolk](https://en.wikipedia.org/wiki/Anti-folk)
+* 1998-2007: [Garage rock revival](https://open.spotify.com/playlist/7swwwKWs3KpKlH26TVUyAU?si=Fw78JUVHSHmnr4qM361miw)
+* 1985-?: [Totalism](https://en.wikipedia.org/wiki/Totalism) (the opposite of minimalism)
+* 2006-2011: Bloghouse and [dancepunk](https://open.spotify.com/playlist/5H6pxrgLJrRKckNKi7C6s4?si=P5ne7MYEQP6RYsA8a8KA7Q&pi=vV0-9mxESnuYz), witch house, whatever.
+
+
+### Tech
+
+You'd also want a separate playlist for Technical New York: the engineering breakthroughs. Spotify isn't up to this though.
+
+* [first electromechanical musical instrument](https://en.wikipedia.org/wiki/Telharmonium)
+* Stereophonic recording
+* [theory of amplification](https://ieeexplore.ieee.org/document/1641311)
+* [electrical recording](https://www.mixonline.com/technology/1925-western-electricbell-labs-electrical-recording-383620)
+* [first commercial synths](https://en.wikipedia.org/wiki/Moog_synthesizer), first keyboard synth
+* electret condenser microphone - what 90% of all current mics are.
+* [algorithmic music](https://en.wikipedia.org/wiki/Electronium)
+* [first fully electronic film score](https://en.wikipedia.org/wiki/Bebe_and_Louis_Barron)
+* first widely-used computer music [program](https://120years.net/music-n-max-mathews-usa-1957/) (MUSIC-N)
+* [sliding faders](https://christiansmusicmusings.wordpress.com/2018/02/13/tom-dowd-humble-music-genius-behind-the-scenes/)
+* Spector wasn't the first to use the [studio as an instrument](https://en.wikipedia.org/wiki/Recording_studio_as_an_instrument#1940s%E2%80%931950s) but he cemented it
+* [breakbeat](https://www.grafftergallery.com/2023/02/the-breakbeat-king-innovative-djing-of.html) and [scratching](https://en.wikipedia.org/wiki/Grand_Wizzard_Theodore)
+* [the extended remix and 12" single](https://daily.redbullmusicacademy.com/2017/11/tom-moulton-interview/)
+* [the breakdown](https://magazine.waxpoetics.com/article/tom-moulton-beat-doctor/)
+
+
+
+### Current 
+
+> Scenius seemed to stop happening at some point early in this century. What was the last musical movement to be distinctively associated with a city in Britain? Trip-hop, from Bristol? Grime, from East London? Once you get beyond 2010 it’s hard to think of any. In the US, New York is a more liveable city than it was for much of the twentieth century, and a less creative one. Portland and Austin are not quite what they were. San Francisco and Silicon Valley are perhaps the last examples of scenius, but those scenes are driven by money, not art.
+
+<center>- Ian Leslie</center>
+
+And now? It's still a great city. What new sounds is it cooking?
+
+* [Brooklyn drill](https://en.wikipedia.org/wiki/Brooklyn_drill): a minor variation on UK drill. A$AP Mob: a minor variation on cloud/Southern rap. Rage (2hollis and Nettspend): a minor variation on drill.
+* [Outsider house](https://en.wikipedia.org/wiki/L.I.E.S.)
+<!-- * Jazz Revival.  -->
+* New opera (Mazzoli, Lang, Wolfe, Du Yun, Muhly)
+* More free jazzes and the "new Brooklyn complexity" (Mary Halvorson, Matana Roberts, Tomas Fujiwara, Ches Smith, Ingrid Laubrock). 
+* Post-minimalism (Oneohtrix Point Never)
+* [Brooklyn noise](https://nyc-noise.com/). No wave plus
+
+Solid, but not the same. Something ran out. Guesses:
+
+* loss of cheap rents and squats. Relatedly: loss of discomfort and chaos.
+* loss of the wizards. Maybe deindustrialisation means that the engineers aren't colocated with the artistes, so New Yorkers don't get the stream of pre-market prototypes they had for 80 years. No Bell Labs and maybe not many [Bebes and Louises](https://en.wikipedia.org/wiki/Bebe_and_Louis_Barron).
+* loss of some of the wealth gradient? 70s New York had both extreme poverty (and so cheap spaces) and extreme wealth (and so patronage, whether from slumming trust-fund kids or moneyed venue donors)
+* loss of (colocated) gatekeepers you could party with and extract attention rents from
+* loss of industrial zoning allowing big noises. loss of lax enforcement 
+* Institutionalisation of weird music. (All of the above new genres were either deeply commercial or deeply street and subcultural.) Now:
+	* academic capture of alternative music? Careerification, taming, sexlessness?
+	* philanthropic capture of alternative music? Grant applications and awards legibilise.
+* But probably the strongest factors are the universal ones: 
+	* ideas getting harder to find?
+	* loss of modernist aggro?
+	* retromania, [catalog dominance](https://www.honest-broker.com/p/is-old-music-killing-new-music)
+	* the general dematerialisation of social energy Leslie alludes to. The extraction and dissipation of cultural meaning through homogenous phones located in any mere geography. The loss of friction and the loss of mystery and the loss of random physical collision.
+
+<br>
+
+## See also
+
+* [Everybody's Doin' It: Sex, Music, and Dance in New York, 1840-1917](https://www.goodreads.com/book/show/41817533-everybody-s-doin-it)
+* [All Hopped Up and Ready to Go](https://www.goodreads.com/book/show/6585095-all-hopped-up-and-ready-to-go)
+* [The House That Trane Built](https://www.goodreads.com/book/show/298222.The_House_That_Trane_Built)
+* [The New York Schools of Music and the Visual Arts](https://www.routledge.com/The-New-York-Schools-of-Music-and-the-Visual-Arts/Johnson/p/book/9780415936941)
+* [A Flexible History of Fluxus Facts & Fictions](https://www.goodreads.com/book/show/572111.A_Flexible_History_of_Fluxus_Facts_Fictions)
+* [Folk City: New York and the American Folk Music Revival](https://www.goodreads.com/en/book/show/23461144-folk-city)
+* [Love Saves the Day: A History of American Dance Music Culture, 1970-1979](https://www.goodreads.com/book/show/329133.Love_Saves_the_Day)
+* [Please Kill Me](https://pleasekillme.com/please-kill-uncensored-oral-history-punk-book/)
+* [Love Goes To Buildings On Fire](https://www.goodreads.com/book/show/11331168-love-goes-to-buildings-on-fire)
+* [This Must Be the Place: Music, Community and Vanished Spaces in New York City](https://www.goodreads.com/book/show/62005777-this-must-be-the-place)
+* [Hold On to Your Dreams: Arthur Russell and the Downtown Music Scene, 1973-92](https://www.goodreads.com/book/show/6512666-hold-on-to-your-dreams)
+* [Can't Stop Won't Stop: A History of the Hip-Hop Generation](https://www.goodreads.com/book/show/54754.Can_t_Stop_Won_t_Stop)
+* [Meet Me in the Bathroom: Rebirth and Rock and Roll in New York City 2001-2011](https://www.goodreads.com/book/show/25816741-meet-me-in-the-bathroom)
+* [The Williamsburg Avant-Garde: Experimental Music and Sound on the Brooklyn Waterfront 1985-2010](https://www.dukeupress.edu/the-williamsburg-avant-garde)
+
+
+
+<br><br>
+<div class="accordion">
+	<h3>Comments</h3>
+	<div>
+		<b>Larry</b> commented on 27 October 2025:
+		<blockquote>IRL scenius lives on in small towns, not publicized.  e.g Bellingham WA multi genre mix, Paso Robles CA wine scenius moved from Napa Valley,  Santa Cruz - North Monterey County - organic farming.</blockquote>
+		<hr /><br>
+		<b>Ray</b> commented on 27 October 2025:
+		<blockquote>There does seem to be some dissipation of energy. I'd just bring up a few genres you may have missed, although you may think they are just minor iterations.<br><br>
+In NYC, I don't know how people are characterizing it, but there is a Soundcloud rap 2.0; rage rap thing that is happening in NYC. It kind of fully embraces like rich UES kids making music in a way. Artists I am referring to are people like 2hollis and Nettspend.<br><br>
+They are in conversation with the other Soundcloud 2.0 guys like Ken Carson, but really in their own genre.<br><br>
+In London, there is an electronic genre; forget what it's called but it tends to have extremely heavy sample usage that's in your face. The whole songs are sampled real life sounds; it's bass forward and drumlines with post EDM trap influences. The drumlines are some of the most complex, but that is true for all of electronic genres now. The pop version of this genre are Kai Whiston and Iglooghost, but the central figures are Sega Bodega and his record label: Shygirl and Coucou Chloe. The NYC close friend of there's is Eartheater. It is kind of a successor branch to future bass or edm.<br><br>
+UK Drill is a bigger deal than people think for UK music in general. The thing that was hard for grime prior to drill was it was 140bpm and the rapping was formalized techniques to rap at that speed; this comes from their rave scene and drum and bass bpms. Drill is easier to commercialize and alters rap techniques and highlights pauses, which generally are not acceptable in regular rap. There are some artists that are well known on TikTok and in America like central cee from this scene.<br><br>
+I would put A$AP Mob more in the cloud rap genre which also wasn't native to NYC, but NYC did popularize it. It's mostly under the influence of Clams Casino who tends to be characterized as Cloud Rap, but is also labelled Witch House sometimes. He might be the sole reason why Imogen Heap had a second life on TikTok. The Imogen Heap sample that is used on Lil B song has been one of the most reused samples in rap these days.</blockquote>
+		<hr /><br>
+		<b>ABC</b> commented on 27 October 2025:
+		<blockquote>
+			This is what we call an oldhead.<br><br>	
+			I give a simple theory: This man is a blogger. In the 70s he would have been a Village Voice columnist. In the 90s he would have written for NME or some similar music publications. In the 2000s he would have written for Pitchfork or run his own music blog. He was a class of taste makers with immense power to dictate trends, who utilized their liberal arts educations and proximity to New York scenes to choose and disseminate new music to the rest of America. But this role has been superseded by social media. You don’t need him anymore because TikTok can show you every musician in any micro scene in any city of the world just by getting you to scroll for 1 hour. It’s no coincidence he believes NYC music [dies] right in the 2010s.<br><br>
+			There are many great scenes in NYC still but WASPy sociocultural elite blogger is not really the demographic target for any of them, no offense intended.<br><br>
+			But if you look at the “classic” records no one was listening to them at the time anyway. It was only retrospectively that they became cohesive.<br><br>
+			<blockquote><b>Gavin: Wrong on all counts! I am not a WASP, don't have a fancy liberal arts degree, and have literally never been in a tastemaking-gatekeeping scene. Nor am I closed off to the possibility of current scenes: I listened to <a href="https://www.gleech.org/music2024">900</a> albums released last year. <br><br>
+			You are welcome to submit to the Tiktok algorithm's gatekeeping instead of the WASP hipster kind, but it has not so far led to scenius and is imo unlikely to ever breed much music we will later describe as art.<br><br>
+			Please name these great scenes!<br><br>
+			Also, where I'm from, "oldhead" is a compliment. It's someone who can rise above the noise and manias of a particular moment by seeing it in context.</b></blockquote>
+		</blockquote>
+		<hr /><br>
+		<b>Will C</b> commented on 28 October 2025:
+		<blockquote>Odd to identify Mary Halvorson and Oneohtrix Point Never as belonging to some single genre. <b>[EDIT GL: now fixed.]</b> Halvorson's more typical of what Vijay Iyer dubbed the "new Brooklyn complexity," lot of related figures in that scene: Tomas Fujiwara, Ches Smith, Ingrid Laubrock, etc. Basically a jazz variant with convoluted but rarely atonal harmonies, weird time signatures, quirky compositional forms.<br><br>
+			Oneohtrix Point Never is hard to pin down, he's shifted throughout his career, but among other things he's considered one of the seminal figures in the "vaporwave" scene. Hard to argue this is a NYC-based scene I suppose, it's mostly internet-based.<br><br>
+			But scenes splitting up geographically is the real trend--flights are cheap, collaboration doesn't have to be face-to-face for many styles, and social media makes it easier for artists to hone in on a broad but dispersed audience. The idea of free jazz and post-minimalism being a single block makes me think of a different set of artists--Ellen Arkbro, Caterina Barbieri, Laurel Halo, Kali Malone, all of whom are recognizably part of one scene, collaborate in some instances, but are not based in any single country.<br><br>
+			I do want to put some friction here--the idea that (say) the 50s-90s were a typical period of musical history that we should expect to be repeated doesn't really hold up, and I think it really confuses things. NYC isn't as innovative as it used to be, because there's less innovation to be had. And the reason for that is: innovation isn't some homogeneous, fungible commodity. Take a few of the big 8/90s innovations, hip-hop, drum n bass, industrial music. These are genres that are completely built around the invention of sampling, which emerge almost immediately after it becomes commercially available. You can't invent sampling twice.<br><br>
+			Likewise various other innovations which basically pertain to a single simple, identifiable goal, namely the reproduction of sound: amplification, analog synthesis, digital synthesis, looping/sequencing, the subwoofer...all these led almost immediately to genres being formed or reimagined. There have not been comparable technologies in what, thirty years? And that's because the singular goal was, for the most part, achieved. There will not be a second comparable era.
+		</blockquote>
+		<hr /><br>
+		<b>JP</b> commented on 29 October 2025:
+		<blockquote>David Byrne of Talking Heads, in his book How Music Works, highlighted the gentrification of gritty NYC neighborhoods as leading to places where no creativity was going on. Many of his arguments match some of the points here. As with most things, there is no single answer, but Byrne’s main point is that the conditions must be right for creativity to flourish, and NYC has steadily been losing those conditions.</blockquote>
+	</div>
+</div>
+
+

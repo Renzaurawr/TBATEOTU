@@ -1,0 +1,58 @@
+{%  assign id = "rwsimg"  %}
+{%  assign rwarx = "https://arxiv.org/abs/2305.11022"       %}
+{%  assign rwsvid = "https://www.youtube.com/watch?v=LypuoCIX6xA"   %}
+{%  assign uai = "https://www.auai.org/uai2023/"      %}
+{%  assign rwspost = "https://www.auai.org/uai2023/posters/216.pdf" %}
+{%  assign rwscode = "https://github.com/ThomasHeap/MPRW-S" %}
+
+
+<tr>
+    <td class="logo">
+        <a href="{{rws}}">
+            <div id="{{id}}"></div>
+        </a>
+    </td>
+    <td style="padding-left: 5px">
+        <h4>
+            <a class="nolink"  style="font-size: 17px" href="{{rws}}" target="_blank">
+                Parallel Reweighted Wake-Sleep
+                <span class="year">(2023)</span>
+            </a> 
+        </h4>
+        <div class="journo">
+            <a style="text-decoration: none" href="{{uai}}"><i>UAI</i> oral</a>
+        </div>
+        
+        <span class="dropdown">
+          <button class="dropped" onclick="javascript:drop('rws')">The point</button>,
+          
+          <div id="rws" class="dropdown-content">
+            <br>
+            Reweighted wake-sleep (RWS) can do Bayesian inference in a very general class of models. It samples from an approximate posterior Q, then uses importance weighting to estimate the true posterior P, then updates Q towards the importance-weighted estimate of P. But the sheer number of samples you need in IW rules out any realistic-size model.
+            <br><br>
+            We develop "massively parallel RWS", which samples all latent variables and reasons about all possible combinations of samples. You can do this in polynomial time by exploiting conditional independencies. We get a dramatic speedup over standard RWS, which samples the full joint.
+
+            <!-- more general derivations of massively parallel reweighted wake-sleep, making them more general and enabling the use of a wider range of approximate posteriors in Bayesian inference.
+
+Empirical benefits are demonstrated in terms of achieving higher log-likelihood w.r.t alternative training methods for the same model. -->
+            <br><br>
+
+            <i>Authors</i>: Thomas Heap, <span class="me">Gavin Leech</span>, Laurence Aitchison.
+            <br><br>
+            <i>Total hours I contributed</i>: 300 (mostly on an abandoned branch).
+            <br><br>
+            <script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script><div class="altmetric-embed" data-badge-type="donut" data-altmetric-id="148597463"></div>
+            <br>
+            
+            
+          </div>
+        </span>
+        <a href="{{rws}}" target="_blank">the paper</a>, <a href="{{rwsvid}}">video</a>, <a href="{{rwscode}}">code</a>, <a href="{{rwspost}}">poster</a>
+    </td>
+</tr>
+
+
+<script>  
+    var src="/img/papers/rws2.jpg"; 
+    definiteEvent( createImg, [src, "{{id}}"] ); 
+</script>

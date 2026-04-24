@@ -1,0 +1,197 @@
+---
+layout:     page
+title:      "'Methods Failing the Data, Data Failing the Methods'"
+baselink:   /thesis
+permalink:  /thesis
+date:       2024-02-29  <!--site.time-->
+author:     Gavin
+
+img:        /img/phd/
+published:  true
+visible:    1
+quality:    5
+emotion:    5
+importance: 6
+
+summary:    My PhD in plain language
+confidence: 
+categories: 
+warnings:   
+wordcount:      
+---
+
+{%  assign bris = "https://research-information.bris.ac.uk/ws/portalfiles/portal/437692523/methods_failing_the_data.pdf"    %}
+
+
+
+<center>
+    <a href="{{bris}}">
+        <img width="80%" src="/img/thesis.png" />
+    </a>
+    <br><br>    
+</center>
+
+
+
+A thesis is nominally a __unified__ contribution to knowledge. Something new, several pieces of knowledge all pointing in the same direction. I am not focussed enough to do this. 
+
+It's also "a big claim". I obviously had to retrodict a single big claim, and surely most people do the same. 
+        <!-- - [[concocting a coherent PhD (2023)]] -->
+
+
+
+I'm not amazed with it as a contribution to science but it is a pretty good representation of my mind: unfocussed, sweeping; long on synthesis, short on analysis; more amusing than deep but not not deep.
+
+
+It's called _Methods Failing the Data, Data Failing the Methods_. Here's an attempt to explain plainly what I actually did. (You can also click "The Point" on the individual papers <a href="/researches">here</a>.)
+
+
+<br>
+
+## Official conclusions
+
+What did I actually discover?
+
+### COVID
+
+- Global, mass _voluntary_ uptake of mask-wearing _before_ mandates were imposed.
+- Thus that dozens of 2020 papers made a totally false assumption, that mandate timings were a good proxy for wearing behaviour.
+- That the most common tracker of policy decisions, OxCGRT, made a decision that made it unusable for modelling by default.
+- First international analysis of masks with a random sample of (self-reported) mask wearing data. Pieced together a global dataset from multiple sources and vetted it very hard.
+- Fun: the date of peak seasonality. We take a bunch of case data and try to work out the "seasonality", how much the disease weakens between summer and winter. This requires us to work out the peak intensity day, the top of the seasonal effect. We reliably infer the peak as 1st January. Probably coincidence, but ALSO could be that the astronomers who consulted on the Gregorian calendar nailed it.
+- Derived a functional form for effects of mask wearing.
+- Some volunteer labour collecting NPI data
+<!-- Very rudimentary PPL  -->
+
+
+
+
+
+### Ten Hard Problems in Artificial Intelligence We Must Get Right
+
+- Characterised methodology of early deep learning and the `large scale era'
+- Modelled the AI governance field
+- Modelled two decompositions of the alignment problem
+- Traced the family tree of AlexNet and GPT-2.
+
+
+### Tracking replications in the social, cognitive, and behavioural sciences    
+
+- Initiated the project with 53 famous effects that fail to replicate
+- Helped organise the crowdsourcing of 1932 studies
+- Shift from sign replication to effect replication
+- Data analysis around the resulting nonrandom sample
+
+
+### Safety Properties of Inductive Logic Programming 
+
+- Designed and ran the Metagol experiments
+- Literature review and feasibility study for inductive logic approaches
+- Taxonomy of sources of inductive bias
+
+
+<!-- Decision trees compensate for model misspecification
+    Generative models for the synthetic tests
+    Bootstrapping and sensitivity analysis
+ -->
+
+### How to lie in machine learning
+    Taxonomy of questionable practices
+    Collated published and unpublished examples of questionable practices
+    Generated possible solutions
+    Literature review relating ML to existing metascience frameworks
+    Designed retraction analysis
+    Designed the researcher survey
+
+
+<!-- Inferring the effectiveness of government interventions against COVID-19} (2020)
+    Literature review of semi-mechanistic models
+    Helped set the epidemiological priors
+    One among many authors on NPI data collection.
+
+
+
+
+How Robust are the Estimated Effects
+    Formalised model assumptions
+    Refactored theorem 1 and 2
+    Diagrams: model variations (Figure 4)
+
+
+
+
+Seasonal variation in SARS-CoV-2
+    Insolation analysis (Appendix 1)
+    Diagrams including key figure 2
+
+ -->
+
+
+
+### Activation Addition: Steering Language Models Without Optimization
+
+- Designed quantitative experiments 
+- Designed diagrams and pseudocode
+- Lit review on steering vectors
+
+
+
+
+## Unofficial conclusions
+
+* It is a <a href="http://www.stat.columbia.edu/~gelman/">Gelmanian</a> work, in that I cite him 74 times and in every chapter, and in that it is self-elected police work, in that it skips merrily across disciplinary boundaries, and in that it's stubbornly irreverent in tone. This also makes it <a href="https://statmodeling.stat.columbia.edu/2007/09/13/jaynes_is_no_gu/">Jaynesian</a>, indirectly.
+
+* It's surprisingly easy to do real work in fields you have zero background in. This is partly because stats now reigns imperial in roughly all sciences but also because many fields are in some sense methodologically shallow and content deep.
+
+* All solutions to bad science have their own vulnerabilities and/or high costs. This war will never end. 
+
+* It's pretty fishy how few retractions there are in machine learning. (In every field, but especially machine learning.)
+
+* We don't win on average (the average paper is very bad and will always be fairly bad) but as long as our filtering mechanism allows us to continue to find the best 1% which actually progress us, we'll be okay. This filter is also under strain.
+
+<!-- * [[ML ate AI]]  [[stat ML ate ML]]  [[ML ate stats]]  -->
+
+<br>
+
+---
+
+<br>
+
+Man. I still think to myself that some people do real phds. Discoveries. You know, <a href="https://www.paulriechers.com/">something like</a>:
+
+<img src="/img/riechers.png" />
+
+
+
+<!-- I was only really intellectual lead on ILP, reversals, masks, hard problems, How to Lie. 
+
+
+
+The Point
+
+Discoveries 
+- mandate method doesn't work (hundreds of papers)
+
+Negative results
+- ILP
+- GJOpen
+- EPJ
+ -->
+
+The current publication process makes bad salesmen of scientists. One of the good things about a PhD thesis is needs to be sold less. (If you've already published.) It has to be novel, it has to kowtow to precedents, but you can be really honest about its small magnitude within those loose constraints.
+
+
+
+## Some theses I admire
+
+* https://ora.ox.ac.uk/objects/uuid:98a6d3eb-6fee-4850-87f2-8dd048fd6864/
+* https://www.mct.dev/assets/mct-thesis.pdf
+* https://arxiv.org/pdf/2210.09925.pdf
+* https://arxiv.org/abs/2404.12150
+* https://discovery.ucl.ac.uk/id/eprint/10121219/1/Aitchison_000_Thesis.pdf 
+* https://www.inference.org.uk/mackay/thesis.pdf
+* https://arxiv.org/abs/2403.07949 
+* https://www.research-collection.ethz.ch/handle/20.500.11850/635156
+* https://csc.ucdavis.edu/~cmg/papers/Riechers.UCDDissertation2016.pdf
+* https://theses.gla.ac.uk/3258/1/2011CalderheadPhD.pdf
+* https://emmabluemke.com/phd-thesis

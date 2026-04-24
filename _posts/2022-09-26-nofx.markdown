@@ -1,0 +1,97 @@
+---
+layout:     post
+title:      "Punk in Drublic (1994)"
+baselink:   /nofx
+permalink:  /nofx
+date:       2022-09-26
+author:     Gavin   
+img:        /img/
+
+visible:    1
+published:  false
+
+summary:    A weirdly thoughtful pop-punk album.
+quality:    5
+emotion:    6
+confidence: 
+importance: 3
+wordcount:  
+categories: subculture, music
+where:      "Aberdeen"
+---
+
+{%  assign spice = "https://www.urbandictionary.com/define.php?term=Spicy%20White"    %}
+{%  assign canner = "https://canners.nyc/about/"    %}
+{%  assign comb = "https://en.wikipedia.org/wiki/Beachcombing"    %}
+{%  assign met = "https://en.wikipedia.org/wiki/Parking_meter"    %}
+{%  assign free = "https://en.wikipedia.org/wiki/Freeganism"    %}
+{%  assign crust  = "https://en.wikipedia.org/wiki/Gutter_punk" %}
+
+Oddly, NOFX's album _Punk in Drublic_ has more moral imagination than most novels.
+
+Ok sure [some songs](https://genius.com/Nofx-leave-it-alone-lyrics) are the usual impressionistic punk: giving the _impression_ of critique and meaning without saying anything. (Music doesn't have to have a proposition or a narrative, but when a song pretends really hard to have something to say...)
+
+<br>
+
+## 1. 'Linoleum'
+
+About people who subsist. Not quite homeless, not employed. <a href="{{comb}}">Beachcombers</a>, <a href="{{canner}}">canners</a>, buskers, cash-in-hand shadow work in kitchens or construction sites. Some sense of him choosing this as a <a href="{{free}}">freegan</a> / <a href="{{crust}}">crusty</a> / anti-consumerist.
+
+He passes out drunk often, but this isn't a mark of failure. ("<i>Linoleum / supports my head
+/ Gives me something to believe</i>")
+
+Not clear to me whether his "metal meter" is a stolen parking <a href="{{met}}">meter</a> or a metal detector.
+
+<br>
+
+## 'Don't Call Me White'
+
+> I can accept responsibility for what I've done<br>
+But not for who I am...<br>
+I ain't a part of no conspiracy, I'm just your average Joe!
+Represents everything I hate<br>
+The soap shoved in your mouth, to cleanse the mind
+
+<br>
+
+I once went to a comedy gig by [Kamau Bell](https://www.wkamaubell.com/blog/tag/I%27m+white+and+I%27m+proud). He unsuccessfully attempted to get the pallard Edinburgh crowd to chant "_I'm white and I'm proud_", his point being that good people need to reclaim the identity from the nazis - because only then will there be proper regulation of the current negative element.
+
+NOFX aren't having it. Against identity politics and collective punishment.
+
+It's not (just) a paean to liberalism though -- it's also an attempt to claim '<a href="{{spice}}">spicy white</a>' status as a punk:
+
+> A vast majority of sheep<br>
+A buttoned collar, starched and bleached<br>
+Constricting veins, the blood flow to the brain slows<br>
+They're so fucking ordinary white, [so] don't call me white
+
+<br>
+
+
+## 'The Brews' 
+
+Subverting Jewish stereotypes.
+
+## 'Lori Meyers' 
+
+A stab at the sex-work question.
+
+
+## 'Perfect Government'
+
+Class-first social justice
+
+> You point your fuckin' finger<br>
+You racist, you bigot<br>
+That's not the problem, now is it?<br>
+It's all about the money political power is taking<br>
+Protectin' the rich, denying the poor
+
+## 'Happy Guy'
+
+Their greatest song. They imagine the comfort and ontological security of a faith they themselves will never have.
+
+
+## Bonus: 'The Decline'
+
+https://afterallitcouldbeworse.blogspot.com/2013/06/the-decline-1999-by-nofx.html

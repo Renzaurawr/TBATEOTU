@@ -1,0 +1,54 @@
+{%	assign id = "covidimg" 	%}
+{%	assign covcode = "https://zenodo.org/record/4268449"	%}
+
+
+<tr>
+	<td class="logo">
+		<a href="{{covid}}">
+			<div id="{{id}}"></div>
+		</a>
+	</td>
+	<td style="padding-left: 5px">
+		<h4>
+			<a class="nolink" style="font-size: 17px" href="{{covid}}" target="_blank">
+				Government interventions against Covid 
+				<span class="year">(2020)</span>
+			</a>
+		</h4>
+		<div class="journo">
+			<a class="nolink" href="{{covid}}" target="_blank">
+				<i>Science</i>
+			</a>
+		</div>
+		
+		<span class="dropdown">
+		  <button class="dropped" onclick="javascript:drop('covid')">The point</button>,
+
+		  <div id="covid" class="dropdown-content">
+ 			<br>
+ 			<b>Full title: Inferring the effectiveness of government interventions against COVID-19 </b>
+			<br><br>
+			We used a hierarchical Bayesian model to see what worked in the first wave of the pandemic. Up to then, people hadn't been able to pick apart the individual effects of anti-COVID policies, instead using "lockdown" to name all the 20 different things that governments tried in spring 2020 (where that should really be the word for stay-at-home-orders).<br><br>
+			
+			We collected a big new dataset, 41 countries. We were one of the first to spot the really large effect of closing schools & unis, back when people were hoping that children were magically not infectious. Our validation was unusually big and rigorous, for epidemiology.<br><br>
+			
+			Stay-at-home-orders did surprisingly little (0 to 25% reduction) <i>if</i> you've already closed schools, restaurants, big events.<br><br>
+
+			We initially did a cost-benefit analysis of each policy, by surveying (American) people on how much each interferes with their lives, but this wasn't done well enough to get into the final paper. To my knowledge this still hasn't been done (outside of secret government documents), despite it being impossible to make good decisions without it.<br><br><br>
+
+			<i>Authors</i>: Jan M. Brauner, Sören Mindermann, Mrinank Sharma, David Johnston, John Salvatier, Tomáš Gavenčiak, Anna B. Stephenson, <span style="font-weight: bold; font-size: 18px;">Gavin Leech</span>, George Altman, Vladimir Mikulik, Alexander John Norman, Joshua Teperowski Monrad,, Tamay Besiroglu, Hong Ge, Meghan A. Hartwick, Yee Whye Teh, Leonid Chindelevitch, Yarin Gal, Jan Kulveit.<br><br>
+				<i>Total hours I contributed</i>: 130.
+			<br><br>
+
+			<script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script><div class="altmetric-embed" data-badge-type="donut" data-altmetric-id="96027237"></div><br>
+		  </div>
+		</span>
+
+		<a href="{{fhitwit}}">explainer</a>, <a href="{{covidpod}}">podcast</a>, <a href="{{gel}}">discussion</a>, <a href="{{covcode}}">code</a>, <a href="{{epifor}}">app</a>, <a href="{{korona}}">game</a>
+	</td>
+</tr>
+
+<script>  
+	var src="/img/papers/science-covid.png"; 
+    definiteEvent( createImg, [src, "{{id}}"] ); 
+</script>

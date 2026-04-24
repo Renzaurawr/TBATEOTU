@@ -1,0 +1,16 @@
+<li>
+	<blockquote>
+		{{include.what}} 
+
+		{% if include.fn %}
+			<a href='#fn:{{include.fn}}' id='fnref:{{include.fn}}'>{{include.fn}}</a>
+		{% 	endif 	%}
+	</blockquote>
+
+	{% if include.who %}	
+	&#8213; {{include.who}}
+	{% 	endif 	%}
+		
+</li> 
+
+<br><br>

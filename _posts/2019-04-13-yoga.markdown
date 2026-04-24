@@ -1,0 +1,66 @@
+---
+layout:     post
+title:      "Yoga hypothesis dump"
+baselink:   /why-yoga
+permalink:  /why-yoga
+date:       2019-04-13
+author:     Gavin
+
+img:        /img/don.jpg
+published:  true
+visible:    1
+quality: 	4
+
+summary:    List of possible reasons yoga feels good.
+confidence: N/A, speculation.
+importance: 4
+wordcount:      500
+argument:	
+categories: hypothesis-dump
+---
+
+{%  include yoga/links.md     %}
+
+Mindfulness is trendy in my social circle, as part of a wider attempt to psychologise and appropriate the good bits from religion (<a href="{{solstice}}">gatherings, singing</a>, self-transcendence, gratitude, <a href="{{xhope}}">existential hope</a>, annual rituals). As a Brit - as a proudly and wilfully <a href="{{fett}}">fettered</a> person - I am suspicious of all this grinning and trusting and spirit. <a href="#fn:2" id="fnref:2">2</a>
+
+To my surprise I like yoga. (The hardish kind, 'ashtanga'.) I never regret going, and usually emerge with a clear head and a warm glow. Why?
+
+At some point I'd like to do a proper literature review on the <a href="{{coch}}">purported outcomes</a> of yoga vs meditation and so on (with a suitable <a href="{{edlin}}">correction</a> for <a href="{{ioan}}">how bad</a> and inflated medical/psychological research is) but for now I just want to list hypotheses (in the manner of <a href="{{grace}}">this great post</a> by Katja Grace). <a href="#fn:1" id="fnref:1">1</a><br><br>
+
+
+1. **Just endorphins**. It's resistance training of a kind, so it produces the usual exercise high.<br><br>
+3. **Stretching**: I don't stretch outside class. Maybe it's a _de facto_ massage.<br><br>
+2. **Deep breathing**. 
+	* <i>Brute oxygenation</i>. Maybe I don't breathe enough in everyday situations.
+	* Most mindfulness gives <a href="{{prana}}">focussing on your breath</a> massive significance, as a way to occupy your stream of consciousness and sort of stop thinking (or stop identifying with your stream). As a <i>break</i> from thinking this seems plausibly good, but of course some strains of the source religion take it further and treat <a href="{{chan}}">thought and explanation as an enemy</a>. See hypothesis \#6.<br><br>
+5. **Giving up agency for an hour**: Maybe it's pleasant to do as you're told, to not make active decisions (in moderation!).<br><br>
+6. **Focussing on concrete things**. For me, I think all of the supposedly therapeutic effect of not thinking comes from having to focus on moving carefully, from being actively distracted from my flywheel mind. But this is still thinking, just thinking about my body and the floor instead of abstractions.<br><br>
+7. **Corpse mode**: At the end of a session you completely let go for 5 whole mins. It feels fantastic (though it doesn't work without the preceding hour of strain). All exercise would probably produce great effects if it ended in this way. (That's the <a href="{{shav}}">literal translation</a>, incidentally.)<br><br>
+8. **Group psychology**: Most people like doing things in a group.
+	* There's an aesthetic angle to doing things in unison, cf. choir singing.<br><br>
+9. **Proprioception fun**: your eyes are closed for much of the time. Is it a pleasant challenge to move one's body without visual feedback and balancing?<br><br>
+10. **Thought of being toned**: Usual optimism produced by physical activity.<br><br>
+11. **Bare feet**: It's pleasant to take off my shoes.<br><br>
+12. **Silliness**: I quite like silly things, and wobbling in <a href="{{wwiii}}">Warrior III</a> is silly.<br><br>
+13. **Mystic decorations**: Maybe there's a guilty pleasure in listening to <a href="{{woo}}">woo</a> for once.<br><br>
+14. **Inversion**: Is there something about being upside down?<br><br>
+<!--  -->
+14. **The company of women**. Gender split in my class is 9:1. This is a novelty, doesn't happen in any other part of my life. (Except choir.)<br><br>
+15. **Improved concentration**. Insight or apparent insight into your stream of consciousness, how perception is really a real-time model of your surroundings.<br><br>
+16. **Improved body awareness**. Awareness of being an animal
+
+<br>
+
+Most of these suggest their own tests naturally. You test (5) by doing your own thing, (8) by doing it alone, etc. The null hypothesis is that it's just (1), which you test by sitting still and trying not to think of anything. (I did. It wasn't nice.)
+
+Even after we find out the active ingredients of the pleasantness, we still don't know that yoga improves e.g. cognition or mental health or productivity, except insofar as feeling good is constitutive of those. (Which it is to some degree.)
+
+What else?
+
+<br><br>
+
+
+
+{%  include yoga/foots.html %}
+
+

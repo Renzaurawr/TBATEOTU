@@ -1,0 +1,24 @@
+---
+layout:     post
+title:      "Index of Global Deaths, 2016"
+baselink:   /death-16
+permalink:  /death-16
+date:       2017-06-25  <!--site.time-->
+author:     Gavin   
+
+img:        /img/
+visible:	false
+published:	false
+quality:    
+
+summary:    What killed people last year?
+confidence:	95%
+categories: computing, history
+warnings:	Unfair posterity.
+importance: 8.
+wordcount:		
+---
+
+
+
+

@@ -1,0 +1,70 @@
+---
+layout:     post
+title:      "ambitions"
+baselink:   /ambitions
+permalink:  /ambitions
+date:       2025-06-29
+author:     Gavin
+img:        /img/apple.jpg
+
+visible:    1
+published:  true
+quality:    
+
+summary:    less-visible, less-conventional drives are still drives
+confidence: 
+importance: 7
+wordcount:  
+categories: philosophy-of-life, work, 
+where:      "Munich"
+---
+
+
+When someone accrues money and wants more, or acclaim and wants more, or climbs the ladder of large organisations, or thinks everyone else is wrong and wants to establish their theory, we call them ambitious. Accumulate, dominate.
+
+But I have large ambitions too, just not of this kind. None of my ambitions involve accumulating wealth (now that I have enough) and I am already as famous as I can stand (i.e. not at all).
+
+* I want to provide the great synthesis for my time. I want to work out what that even means.
+* I want to be a universal critic of all fields and mediums
+* I want to understand as much as I can: relativity, QFT, evolution, RL, active inference for a start.
+* I then want to drag the ladder down, to make it easier for all others to understand them
+* I want to study all of the world's music 
+* I want freedom from all administration and time theft
+* I want to read as well as anyone has read
+* I want to write a great album and record it
+* I want to write a great poem
+* I want to unseat fakes and barnacle people from science and fiction
+* I want to teach 1000 students; teach in the grand sense. _reach_ 1000 students.
+* I want to make AI tools which don't repulse me
+* I want to actually help AI go well
+* etc
+
+Any one of these would qualify as extremely ambitious, in the true sense.
+
+The obvious problem with this is that my attention is divided, so singular great works are probably out of reach. Also people might underestimate me. This seems fine.
+
+
+
+
+
+<div class="accordion"> 
+	<h3>Definitions</h3>
+	<div>
+		You could make a bundle of ambitiousness out of various axes:<br><br>
+		
+* _How many people it affects_. <br>
+* _How counterfactual it is_. ...Art is much more counterfactual than science, but I don't want to say that art is more ambitious than science.<br>
+* _How novel it is_. Cutting apples out of your own mouth using a chainsaw doesn't have any effect on anyone else. But it is novel, or it was 20 years ago.<br>
+* _How hard it is_. 
+* ...
+	</div>
+	<h3>Others</h3>
+	<div>
+		<a href="https://www.businessinsider.com/trust-fund-dynastic-wealth-income-inequality-2019-3">Dynasty</a> founding is a old/new weird one with some potential to take over the world through sheer force of exponents. Luckily <a href="https://en.wikipedia.org/wiki/The_Son_Also_Rises_(book)">Clark</a> tells us that they will eventually fail.<br><br>
+		Becoming a parent is, currently, sorta ambitious. (I say currently because the onerous parenting time and safetyism and cost is historically novel.) It used to be unambitious to become a parent but ambitious to remain a parent, since they'd so often die.
+	</div>
+</div>
+
+
+
+

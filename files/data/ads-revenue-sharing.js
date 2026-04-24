@@ -1,0 +1,1 @@
+window.YTD.ads_revenue_sharing.part0 = []

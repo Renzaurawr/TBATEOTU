@@ -1,0 +1,14 @@
+{%	assign cltv = "https://en.wikipedia.org/wiki/Criticisms_of_the_labour_theory_of_value"	%}
+{% 	assign alea = "https://en.wikipedia.org/wiki/Aleatoricism"  	%}
+{%	assign law2 = "http://en.wikipedia.org/wiki/Entropy#Second_law_of_thermodynamics" 	%}
+{% 	assign work = "http://en.wikipedia.org/wiki/Work_(thermodynamics)"	%}
+{% 	assign satis = "http://en.wikipedia.org/wiki/Satisficing" %}
+{% 	assign eea = "http://www.anth.ucsb.edu/projects/human/epfaq/eea.html"	%}
+{% 	assign christ = "https://sideways-view.com/2020/01/26/hedonic-asymmetries/"		%}
+{% 	assign jo = "https://www.newyorker.com/magazine/2020/01/13/a-world-without-pain?verso=true"		%}
+{% 	assign hyp = "https://en.wikipedia.org/wiki/Hyperthymic_temperament"		%}
+{% 	assign sand = "https://www.youtube.com/watch?v=YTu28qn2xcg"		%}
+{% 	assign fuzz = "https://fuzzygrammar.wordpress.com/2016/08/14/the-hardest-language-in-the-world-what-are-we-talking-about-when-we-talk-about-complexity"		%}
+{% 	assign lang = "https://medium.economist.com/we-went-in-search-of-the-worlds-hardest-language-95a27c2cff3"	%}
+{% 	assign dys = "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2066137/"	%}
+{% 	assign acx = "https://www.astralcodexten.com/p/book-review-sadly-porn"	%}

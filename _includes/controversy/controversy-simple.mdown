@@ -1,0 +1,92 @@
+
+[Around 90 health workers][Poliohno] were murdered while delivering polio vaccines to children in 2014. Other people have attacked against [schools][Schoolsout], [ancient ruins][Ruined], and [mid-level science professors][Unabomb]. We can conclude that _everything is controversial to someone_. We could do better than this if we had a way to measure controversy.
+
+First, what is "tractability"?
+
+<p><span style="font-weight: bold"><br>tractability</span>: how easy something is to solve - how much you get done for a given amount of money, for instance.</p>
+
+My question is _How can we estimate political controversy? How can we relate this to tractability?_ Controversy, and the conflict that comes with it, are a large drag on tractability. They are a particularly big problem for anything which wants to use government resources.
+
+On the face of it, these two things would be connected in the following way: consider the act of giving people free birth control in a highly religious country. This is often controversial. 
+
+The tractability of giving out condoms depends on the cost of buying and shipping them and the diseases, as well as how well similar work has gone and how easy it is to track results. But we're pointing out that also depends heavily on social factors like controversy and conflict. So the tractability number obtained without at least trying to guess these factors is shaky - "asocial", you could call it. A positive social factor would be the reputation and connections of the people giving out the condoms. This can be guessed by things like "number of politicians known", but really it itself is a hidden factor - one which you might use the efficiency of the people's previous work to guess.  
+
+Conflict causes delays, extra costs (for lawyers, negotiators, marketers, security, and insurance), and might reduce the number of people willing to use the product, or to volunteer. This all reduces the efficiency, or 'tractability'.
+
+One source of conflict is people actively working against your medicine drop. But as well as inspiring direct action against your medicine drop, controversy would also make politicians and other organisations less likely to help you.
+
+We can make a first guess at what controversy 'really is' with saying "the size of the group that is against condom distribution, plus a multiplier for the extent to which their (democratic) government is to be involved with the plan".
+
+In later versions you'd want to take account of the media spreading controversy, and the illusion of controversy, and how weird the goal is among the recipient people. (For instance, acting to reduce the suffering of animals in the wild is weird in every country in the world, except maybe parts of Tibet.)
+
+<br><br>
+
+This is no doubt an incomplete picture, and it's hard to measure basically every factor mentioned. But the value of getting imperfect guesses could still be high, especially if the work can't be done in an uncontroversial way (e.g. if we're trying to get a new law passed).
+
+---
+
+<br>
+
+### Motivation
+
+To date, community attention has been focussed on low-controversy Pareto improvements. The proposed work is important because much potential value lies in controversial areas: for instance, state intervention offers vast resources and irreplaceable co-ordination power, but the use of these is often defeated by controversy and its entailed lobbying.
+
+Also, within limits, controversy is a proxy for harm: the harm of mass preference violation. It can, then, subtract from net impact as well as from tractability.
+
+One month's work should allow for: 
+
+1. clarification of the relations, [of this sort](#appendix);
+2. ranking of exemplar controversies; 
+3. data collection and scoring, maybe for a controversy classifier; 
+4. coefficient estimates for some cause (e.g. birth control is data-rich and controversial enough).
+
+<br><br>
+
+---
+
+<br>
+
+### Sub-questions
+
+* _How to quantify political resistance?_
+(e.g. via historical studies: How much progress per million dollars on a cause? How often does violence attend work on it?)
+
+* _What predicts political controversy?_
+(_Leads_: social media sentiment analysis, news density, bipartisan lobbyist spending, legislation density, psychological availability, religious edicts.)
+
+* _If equations are helpful, what are appropriate forms?_
+
+* _What level of controversy precludes effective intervention?_
+
+* _How does controversy accumulate and decay on an organisation like CEA? A movement like EA? What are its long-term effects?_
+
+<br><br>
+
+---
+
+<br>
+
+### Uncertainties
+
+I’m not sure how to square the value of countercyclical moral leadership with the Impact-Tractability-Neglectedness (ITN) model. I’m not sure how much moral weight to give preference violation, or its proxy, expressed disapproval.<sup>[+]</sup> I’m not sure how to disaggregate cause controversy, intervention controversy, and actor controversy.
+
+<!-- [+] Though some detailed precursors exist, in the form of [Social Choice theory][SocialChoice]-->
+
+I am not sure how much weight to put on historical case studies, relative to a classifier based on chatter. I’m not sure of the predictive power of my proxies, especially sentiment intensity.
+
+One weak source of validation would be [80,000 Hours' estimates][80k] of cause effectiveness, on a simple 1-5 scale. (Note that the lowest tractability causes there, immigration reform and catastrophic risks, are indeed the most politically involved causes.)
+
+
+<br><br>
+<br><br>
+
+<!---->
+
+
+[Spiegel]:		http://technicalities.netlify.com/metrics/#spiegel-quality
+[Poliohno]:		http://europe.newsweek.com/polio-related-murders-kill-more-disease-itself-287880?rm=eu 
+[Schoolsout]:	http://www.protectingeducation.org/sites/default/files/documents/eua_2014_full.pdf 
+[Ruined]:		https://en.wikipedia.org/wiki/Destruction_of_cultural_heritage_by_ISIL 				
+[Unabomb]:		https://en.wikipedia.org/wiki/Ted_Kaczynski#Casualties 
+[Obs]:			https://en.wikipedia.org/wiki/Obstructionism
+[SocialChoice]:	http://effective-altruism.com/ea/11i/the_effective_altruism_newsletter_open_thread/8m6

@@ -1,0 +1,63 @@
+<script>
+
+	function create(src, parent, type) {
+		var i = document.createElement(type);
+		i.src = src;
+	    i.frameborder = "0";
+	    document.getElementById(parent).appendChild(i);
+
+	    return i
+	}
+
+
+	function createIframe(src, parent) {
+		var i = create(src, parent, "iframe")
+		i.width = "100%";
+		i.height = "400px";
+	}
+
+
+	function createImg(src, parent) {
+		create(src, parent, "img")
+	}
+
+
+	function definiteEvent(callback, args) {
+		if (window.addEventListener) {
+		    window.addEventListener("load", callback.apply(this, args), false);
+		}
+		else if (window.attachEvent) {
+		    window.attachEvent("onload", callback.apply(this, args));
+		}
+		else window.onload = callback.apply(this, args);
+	}
+
+
+	function restyle(evt, writingStyle) {
+    	
+      	resetBlocks();
+      	resetLinks();
+      	document.getElementById( writingStyle ).style.display = "block";
+		document.getElementById( writingStyle + "Link" ).style.fontWeight = "bold";
+		document.getElementById( writingStyle + "Link" ).style.textDecoration = "none";
+  	}
+
+  	function resetBlocks( ) {
+  		var i, tabContent;
+      	tabContents = document.getElementsByClassName("tabContent");
+
+  		for (i = 0; i < tabContents.length; i++) {
+          tabContents[i].style.display = "none";
+	    }
+  	}
+
+  	function resetLinks() {
+  		var i, tabContent;
+  		tabLinks = document.getElementsByClassName("tabLinks");
+
+    	for (i = 0; i < tabLinks.length; i++) {
+        	tabLinks[i].style.fontWeight = "normal";
+    	}
+  	}
+
+</script>

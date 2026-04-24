@@ -1,0 +1,14 @@
+<header class="site-header">
+  <div class="wrapper h-flex">
+    <a class="site-title" href="{{site.url}}">{{ site.fmtTitle }}</a>
+
+    <nav>
+      {% for page in site.pages %}
+        {% if page.visible == true %}
+            <a href="{{ page.url | prepend: site.url }}">{{ page.nav }}</a> 
+        {%  endif  %}
+      {% endfor %}
+    </nav>
+  </div>
+</header>
+
