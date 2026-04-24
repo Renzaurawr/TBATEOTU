@@ -1,0 +1,140 @@
+---
+layout: default
+---
+
+<div class="post">
+
+<header class="post-header">
+  <div class="post-banner">
+    <h1 class="post-title">{{ page.title }}</h1>
+    {% if page.img %}
+        <img class="post-image" src="{{ page.img }}" />
+    {% endif %}
+  </div>
+
+  <div class="post-meta">
+    {%  assign s = "&nbsp;&nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;&nbsp;"  %}
+    {%  assign t = "•&nbsp;&nbsp;&nbsp;"  %}
+    
+    {%  include british_date.md   %}
+
+    <br>
+    {% if page.summary %}
+        {{t}}<i>{{  page.summary  }}</i>
+    {% endif %}
+
+    {% if page.confidence %}
+        <br>{{t}}<i>Confidence</i>: {{ page.confidence }}
+    {% endif %} 
+    <details class="dropdown">
+      <summary>
+        &nbsp;&nbsp;Metadata
+      </summary>
+    {%  if page.categories.size > 0   %}
+        <br>{{t}}<i>Tags:</i> 
+        {% for tag in page.categories %}
+          <a style="text-decoration: none;" href="/tags#{{ tag | replace: ',', ''  }}">{{ tag }}</a>
+        {% endfor %}
+    {%  endif  %}
+
+    {% if page.importance %}
+        <br>{{t}}<i>Topic importance</i>: <a href="/importance">{{  page.importance }} / 10</a>
+    {% endif %}
+
+    {% if page.warnings %} 
+        <br>{{t}}<i>Content notes</i>: {{  page.warnings }}
+    {% endif %}
+
+    {% if page.wordcount %}
+        <br>{{t}}<i>Reading time</i>: {{ page.wordcount | divided_by: 2000.0 | ceil | times: 10 }} mins. 
+    {% endif %} 
+
+
+    {% if page.cross %} 
+        <br>{{t}}<a href="{{ page.cross }}">Cross-posted here</a>.
+    {% endif %} 
+
+    {% if page.podcast %} 
+        <br>{{t}}<a href="{{ page.podcast }}">Podcast version here</a>.
+    {% endif %} 
+    
+    {% if page.simple or page.stylised or page.technical %}  
+      <br>{{t}}<i>Versions: </i>
+      {% if page.simple %} 
+        <a href="javascript:void(0)" class="tabLinks" onclick="restyle(event,'simple')" id="simpleLink">Simple</a> 
+      {% endif %} 
+      {% if page.stylised %} &nbsp;|&nbsp;
+        <a href="javascript:void(0)" class="tabLinks" onclick="restyle(event,'stylised')" id="stylisedLink">Stylised</a> 
+      {% endif %} 
+      {% if page.technical %} &nbsp;|&nbsp; 
+        <a href="javascript:void(0)" class="tabLinks" onclick="restyle(event,'technical')" id="technicalLink">Technical</a> English 
+      {% endif %} 
+    {% endif %}
+
+    {% if page.argument %} 
+        <br>{%  include dropdown.html     %}    
+    {% endif %} 
+    </details>
+  </div>
+</header>
+
+    <hr /><br>
+  
+  <article class="post-content">
+    {{ content }}
+    
+    {%  if page.categories.size > 0   %}
+      <br><br>
+      <span id="tags">
+        Tags: 
+        {% for tag in page.categories %}
+          <a style="color:green" href="/tags#{{ tag | replace: ',', ''  }}">{{ tag }}</a>
+        {% endfor %}
+      </span>
+    {%  endif  %}
+
+    <br><br>
+
+    {%  include comments.html %}
+
+    <br>
+
+    {%  include mc.html %}
+
+  </article>
+
+  <!-- Doesn't work; Netlify rebuilds the whole site when *anything* changes -->
+  <!--   <div style="color:#C0C0C0">
+    <i>Last modified</i>: {{ page.path | prepend: "/" | prepend: site.source | file_date | date_to_string }}
+  </div>
+  <br>
+  -->
+
+  <br>
+
+ 
+
+</div>
+
+<br>
+
+<script src="/scripts/jquery.min.js" ></script>
+{%    include js/accordion.html     %}
+{%    include js/bigfoot.html       %}
+{%    include js/lazyFrame.html     %}
+
+<script type="text/javascript">
+  $(document).ready(function() { 
+
+    if (document.location.hash) {
+      startingLink = window.location.hash + "Link";
+    } 
+    else {
+      startingLink = "#"+ $(".defaultOpen").attr('id') + "Link";
+    }
+    console.log(startingLink)
+    $(startingLink).click();
+
+  });
+</script>
+
