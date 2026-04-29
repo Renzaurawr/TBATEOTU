@@ -1,8 +1,6 @@
 # TBATEOTU
 
-**The Blog at the End of the Universe** — a clean, customizable Jekyll blog for GitHub Pages.
-
-Dense academic feel. Real footnotes with hover tooltips. Yours to repopulate.
+**The Blog at the End of the Universe**: Renzo's online presence.
 
 ---
 
