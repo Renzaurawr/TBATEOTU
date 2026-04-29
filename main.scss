@@ -1,0 +1,46 @@
+---
+---
+// ============================================================
+// TBATEOTU — Main Stylesheet
+// Import order matters: variables first, then base, then components
+// ============================================================
+
+@import "variables";   // ← Edit this file to retheme everything
+@import "base";
+@import "layout";
+@import "posts";
+
+// ============================================================
+// Utilities (add your own below)
+// ============================================================
+
+.sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border: 0;
+}
+
+.text-muted {
+  color: $color-text-muted;
+}
+
+.font-mono {
+  font-family: $font-mono;
+}
+
+.view-all-link {
+  font-family: $font-sans;
+  font-size: $font-size-sm;
+  text-decoration: none;
+  color: $color-text-muted;
+  
+  &:hover { color: $color-accent; }
+
+  &::after { content: " →"; }
+}

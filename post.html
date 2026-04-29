@@ -1,0 +1,60 @@
+---
+layout: default
+---
+
+<article>
+  <header class="post-header">
+    <div class="post-header__meta">
+      <time datetime="{{ page.date | date_to_xmlschema }}">
+        {{ page.date | date: "%B %-d, %Y" }}
+      </time>
+      {% if page.reading_time %}
+        <span>· {{ page.reading_time }} min read</span>
+      {% else %}
+        {% assign words = content | strip_html | number_of_words %}
+        {% assign minutes = words | divided_by: 200 %}
+        {% if minutes > 1 %}
+          <span>· ~{{ minutes }} min read</span>
+        {% endif %}
+      {% endif %}
+    </div>
+
+    <h1 class="post-header__title">{{ page.title }}</h1>
+
+    {% if page.subtitle %}
+      <p class="post-header__subtitle">{{ page.subtitle }}</p>
+    {% endif %}
+
+    {% if page.tags and page.tags.size > 0 %}
+      <div class="post-header__tags">
+        {% for tag in page.tags %}
+          <a href="{{ '/tags/' | append: tag | relative_url }}" class="tag">{{ tag }}</a>
+        {% endfor %}
+      </div>
+    {% endif %}
+  </header>
+
+  <div class="post-body">
+    {{ content }}
+  </div>
+</article>
+
+<!-- Post navigation -->
+<nav class="post-nav" aria-label="Post navigation">
+  <div class="post-nav__item post-nav__item--prev">
+    {% if page.previous.url %}
+      <span class="post-nav__label">← Previous</span>
+      <a href="{{ page.previous.url | relative_url }}" class="post-nav__title">
+        {{ page.previous.title }}
+      </a>
+    {% endif %}
+  </div>
+  <div class="post-nav__item post-nav__item--next">
+    {% if page.next.url %}
+      <span class="post-nav__label">Next →</span>
+      <a href="{{ page.next.url | relative_url }}" class="post-nav__title">
+        {{ page.next.title }}
+      </a>
+    {% endif %}
+  </div>
+</nav>

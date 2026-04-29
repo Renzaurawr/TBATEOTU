@@ -1,0 +1,287 @@
+// ============================================================
+// Layout
+// ============================================================
+
+.site-wrapper {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+.site-main {
+  flex: 1;
+  width: 100%;
+  max-width: $max-width-prose;
+  margin: 0 auto;
+  padding: $space-lg $space-md;
+
+  @media (max-width: 720px) {
+    padding: $space-md;
+  }
+}
+
+.site-main--wide {
+  max-width: $max-width-wide;
+}
+
+// ============================================================
+// Header / Nav
+// ============================================================
+
+.site-header {
+  border-bottom: $border-width solid $color-border;
+  padding: $space-md 0;
+  background: $color-bg;
+  position: sticky;
+  top: 0;
+  z-index: 100;
+}
+
+.site-header__inner {
+  max-width: $max-width-wide;
+  margin: 0 auto;
+  padding: 0 $space-md;
+  display: flex;
+  align-items: baseline;
+  gap: $space-lg;
+  flex-wrap: wrap;
+}
+
+.site-header__title {
+  font-family: $font-mono;
+  font-size: 1rem;
+  font-weight: 400;
+  letter-spacing: -0.02em;
+  white-space: nowrap;
+
+  a {
+    color: $color-text;
+    text-decoration: none;
+
+    &:hover {
+      color: $color-accent;
+    }
+  }
+
+  .site-header__abbr {
+    font-weight: 700;
+    color: $color-accent;
+  }
+}
+
+.site-nav {
+  display: flex;
+  gap: $space-md;
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  flex-wrap: wrap;
+
+  a {
+    font-family: $font-sans;
+    font-size: $font-size-sm;
+    font-weight: 500;
+    text-decoration: none;
+    color: $color-text-muted;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+
+    &:hover, &.active {
+      color: $color-accent;
+    }
+  }
+}
+
+// ============================================================
+// Footer
+// ============================================================
+
+.site-footer {
+  border-top: $border-width solid $color-border;
+  padding: $space-lg $space-md;
+  margin-top: $space-xl;
+
+  &__inner {
+    max-width: $max-width-wide;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    gap: $space-lg;
+    flex-wrap: wrap;
+  }
+
+  &__colophon {
+    font-family: $font-mono;
+    font-size: 0.78rem;
+    color: $color-text-muted;
+    line-height: 1.6;
+
+    a {
+      color: $color-text-muted;
+      &:hover { color: $color-accent; }
+    }
+  }
+
+  &__links {
+    font-size: $font-size-sm;
+    color: $color-text-muted;
+    text-align: right;
+
+    a {
+      color: $color-text-muted;
+      &:hover { color: $color-accent; }
+    }
+  }
+}
+
+// ============================================================
+// Post list (index)
+// ============================================================
+
+.post-list {
+  list-style: none;
+  padding: 0;
+  margin: $space-lg 0;
+}
+
+.post-list__item {
+  display: grid;
+  grid-template-columns: 120px 1fr;
+  gap: $space-md;
+  padding: $space-md 0;
+  border-bottom: $border-width solid $color-border;
+  align-items: baseline;
+
+  &:first-child {
+    border-top: $border-width solid $color-border;
+  }
+
+  @media (max-width: 520px) {
+    grid-template-columns: 1fr;
+    gap: $space-xs;
+  }
+}
+
+.post-list__date {
+  font-family: $font-mono;
+  font-size: 0.8rem;
+  color: $color-text-muted;
+  white-space: nowrap;
+  padding-top: 0.15em;
+}
+
+.post-list__content {}
+
+.post-list__title {
+  font-family: $font-serif;
+  font-size: 1.05rem;
+  font-weight: 700;
+  margin: 0 0 $space-xs;
+  line-height: $line-height-tight;
+
+  a {
+    color: $color-text;
+    text-decoration: none;
+
+    &:hover {
+      color: $color-accent;
+      text-decoration: underline;
+      text-decoration-thickness: 1px;
+    }
+  }
+}
+
+.post-list__subtitle {
+  font-size: $font-size-sm;
+  color: $color-text-muted;
+  font-style: italic;
+  margin: 0;
+  line-height: 1.4;
+}
+
+.post-list__tags {
+  margin-top: $space-xs;
+  display: flex;
+  gap: $space-xs;
+  flex-wrap: wrap;
+}
+
+// ============================================================
+// Tag chips
+// ============================================================
+
+.tag {
+  font-family: $font-mono;
+  font-size: 0.72rem;
+  color: $color-text-muted;
+  border: $border-width solid $color-border;
+  padding: 0.1em 0.4em;
+  border-radius: $border-radius;
+  text-decoration: none;
+  white-space: nowrap;
+
+  &:hover {
+    border-color: $color-accent;
+    color: $color-accent;
+  }
+}
+
+// ============================================================
+// Home hero
+// ============================================================
+
+.home-hero {
+  padding: $space-lg 0 $space-xl;
+  border-bottom: $border-width solid $color-border;
+  margin-bottom: $space-lg;
+
+  &__eyebrow {
+    font-family: $font-mono;
+    font-size: 0.78rem;
+    color: $color-text-muted;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    margin-bottom: $space-sm;
+  }
+
+  &__title {
+    font-size: 2.4rem;
+    margin-top: 0;
+    margin-bottom: $space-sm;
+    line-height: 1.15;
+  }
+
+  &__description {
+    font-size: 1.05rem;
+    color: $color-text-muted;
+    max-width: 520px;
+    margin-bottom: 0;
+    font-style: italic;
+  }
+}
+
+.section-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  margin-bottom: $space-md;
+
+  h2 {
+    margin: 0;
+    font-size: 1rem;
+    font-family: $font-mono;
+    font-weight: 400;
+    color: $color-text-muted;
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
+  }
+
+  a {
+    font-size: $font-size-sm;
+    color: $color-text-muted;
+    text-decoration: none;
+
+    &:hover { color: $color-accent; }
+  }
+}

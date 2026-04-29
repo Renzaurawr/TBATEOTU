@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  {% include head.html %}
+</head>
+<body>
+  <div class="site-wrapper">
+    {% include header.html %}
+    <main class="site-main {% if page.wide %}site-main--wide{% endif %}" id="main-content">
+      {{ content }}
+    </main>
+    {% include footer.html %}
+  </div>
+  <script src="{{ '/assets/js/footnotes.js' | relative_url }}"></script>
+</body>
+</html>

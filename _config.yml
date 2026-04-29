@@ -1,0 +1,43 @@
+title: "The Blog at the End of the Universe"
+tagline: "TBATEOTU"
+description: "Thoughts on technology, philosophy, and the edges of things."
+author: "Renzo"
+email: ""
+url: "https://renzaurawr.github.io"
+baseurl: "/TBATEOTU"
+
+# Build
+markdown: kramdown
+highlighter: rouge
+permalink: /:title/
+
+kramdown:
+  input: GFM
+  footnote_backlink: "&#8617;"
+  syntax_highlighter: rouge
+
+# Plugins (all safe for GitHub Pages)
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# Collections
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+
+# Exclude from build
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - node_modules
+  - vendor
+
+# Pagination
+paginate: 10
+paginate_path: "/page/:num/"
